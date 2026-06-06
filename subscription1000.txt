@@ -1,12 +1,3 @@
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#%F0%9F%A6%84%20papa%208686
-vless://bbdf7603-ee64-40bd-b632-e8e549daf616@185.143.233.122:443?type=ws&encryption=none&path=%2F&host=cyrus2.frtshop.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=cyrus2.frtshop.ir#%F0%9F%90%B2%20papa%208689
-vless://23d32544-a499-432c-8124-dcbae92d9b1c@185.143.233.122:443?type=ws&encryption=none&path=%2F&host=cyrus2.frtshop.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=cyrus2.frtshop.ir#%F0%9F%90%B2%20papa%208690
-vless://20b737b7-30e2-4e2e-8d78-fd5062112a98@185.143.233.122:443?type=ws&encryption=none&path=%2F&host=cyrus2.frtshop.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=cyrus2.frtshop.ir#%F0%9F%90%B2%20papa%208691
-vless://2bf4081b-2a8a-4918-a058-0b4b3c51cdbb@cdn1.greewebservices.ir:2095?path=%2F&security=none&encryption=none&host=gerpane2cdn.consolegamenet.ir&type=httpupgrade#%F0%9F%90%B2%20papa%208692
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJRQDgyLjM4LjMxLjIxODo4MDgw#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%208693
-vmess://eyJhZGQiOiJ1dWlwby5pY2UubG9sIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjUxOTE5ZWI4LTQ2ZDEtNGRhZi1hNzA1LTM1YWUyNDE1ZDhmMSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ2NDc0IiwicHMiOiLwn5Cm4oCN8J+UpSBwYXBhIDg2OTQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.72:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%208695
-vless://8b881798-4811-49dc-a8d2-59416a47e695@162.19.239.79:443?encryption=none&security=none&type=tcp#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%208696
 vless://cae9dca6-0ecd-4b8b-80f9-44f9f1eb5ef9@188.114.97.6:2083?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=Kyuu.sodogodping.ir&type=xhttp&allowInsecure=0&sni=Kyuu.sodogodping.ir#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%208697
 vless://cae9dca6-0ecd-4b8b-80f9-44f9f1eb5ef9@188.114.97.6:2083?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=Itw.sodogodping.ir&type=xhttp&allowInsecure=0&sni=Itw.sodogodping.ir#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%208698
 vless://cae9dca6-0ecd-4b8b-80f9-44f9f1eb5ef9@188.114.97.6:2083?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=frir.sodogodping.ir&type=xhttp&allowInsecure=0&sni=frir.sodogodping.ir#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%208699
@@ -998,3 +989,12 @@ vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security=&encryptio
 vless://a2f19c02-fc5a-440a-bea5-674a7d3ec62c@151.101.109.223:443?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=sdffgh.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=biography.com#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%209817
 trojan://avA=NpxA2_yNqY11PT=OrbCXh8C4LdYUeS@38.54.63.105:443?type=tcp&security=tls&headerType=none&sni=www.cdn-setting.click&fp=chrome&allowInsecure=1#%F0%9F%A6%84%20papa%209818
 trojan://BxceQaOe@140.235.140.105:443?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%A6%84%20papa%209819
+trojan://cde2502a-5138-4511-9fe9-9e9df5619aba@185.18.250.252:443?path=%2Fca-cl&security=tls&insecure=0&host=go.appsflyer.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=go.appsflyer.com.r3xxe.eu.cc#%F0%9F%90%B2%20papa%209820
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443?encryption=none&security=tls&type=tcp&headerType=none#%F0%9F%90%B2%20papa%209821
+vless://b12ae589-9f9e-4fdc-abab-9f6f08d04c93@159.65.112.45:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=IRmgOiq91RXXn6MMUvj1JDiadUHh_-pSvnqb_KSuYFM&security=reality&sid=3aedf445&sni=images.apple.com&spx=%2FYvTXfWHLpyr4OzN&type=tcp#%F0%9F%90%B2%20papa%209822
+vless://149ec7f8-e577-4174-836c-605fdd21f4be@178.63.7.152:4061?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%90%B2%20papa%209823
+vless://3cb6bad9-6bd0-438f-9863-c959493b546d@5.75.196.174:8080?security=reality&encryption=none&pbk=qr9I7Hv2oZ2F0BiWgy9DmYHp0vcFEXcNRVHkyFg3OUw&headerType=&fp=chrome&spx=%2Fnew&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=5e11ecc7d4#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%209824
+vless://00000000-0000-4000-8000-000000000000@142.248.151.249:17512?allowInsecure=0&sni=qi4rysu2u-e8j2zzhk.bsld.de5.net&type=ws&host=qi4rysu2u-e8j2zzhk.bsld.de5.net&path=/@Marisa_kristifp=chrome&security=tls#%F0%9F%A6%84%20papa%209825
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-09.vk-cdnvideo.com:8443?allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com&fp=chrome&security=tls#%F0%9F%A6%84%20papa%209826
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%F0%9F%A6%84%20papa%209827
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#%F0%9F%A6%84%20papa%209828
