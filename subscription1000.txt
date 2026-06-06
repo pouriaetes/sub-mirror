@@ -1,9 +1,3 @@
-vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?security=none&allowInsecure=0&encryption=none&type=xhttp&path=/Tignal&mode=auto#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%209507
-vless://2c36bf33-1ec0-45e8-84af-84eeccd56ca5@45.152.67.34:47488?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%209508
-vless://c931f737-cafe-4e4f-998a-a65517941256@185.242.247.206:8443?security=reality&encryption=none&pbk=Ubibgn_MlW_zHo9LwjNH_b6SLNWwTJFwq7wW2ggLtUs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=88ce6b586fcaf681#%F0%9F%A6%84%20papa%209509
-vless://c931f737-cafe-4e4f-998a-a65517941256@node-fi.dostup-est.info:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Ubibgn_MlW_zHo9LwjNH_b6SLNWwTJFwq7wW2ggLtUs&security=reality&sid=88ce6b586fcaf681&sni=cdnjs.com&type=tcp#%F0%9F%A6%84%20papa%209510
-vless://180a65ce-f309-47ec-b8ee-2f7a9a8a0fe2@45.15.152.167:443?type=tcp&security=reality&fp=chrome&pbk=2lReHLDD5UCpT8FyBLPyrrIbi6MNKDBTArtCwI3NUQA&sid=4b1b&sni=yahoo.com#%F0%9F%A6%84%20papa%209511
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#%F0%9F%A6%84%20papa%209513
 vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZTdkNzJhOGQtMjZmMi00YjU0LWIzNjYtMGM0M2UwYmNiYTdkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IvCfpoQgcGFwYSA5NTE0Iiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRlc3RfbmFtZSI6IjIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=172.235.63.252#%F0%9F%A6%84%20papa%209515
 vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@82.26.91.244:443?mode=gun&security=reality&encryption=none&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&fp=chrome&type=grpc&sni=vk.ru&sid=b5#%F0%9F%A6%84%20papa%209516
@@ -998,3 +992,9 @@ vless://5a201e9e-ac9a-4d91-afb6-9ee68d2cf967@www.speedtest.net:443?encryption=no
 trojan://telegram-id-directvpn@18.156.210.131:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%90%B2%20papa%2010680
 trojan://telegram-id-privatevpns@18.156.210.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%90%B2%20papa%2010681
 vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=/vless/#%F0%9F%A6%84%20papa%2010683
+vless://82d6c54f-bdfe-4b4b-82af-23512489de45@31.43.179.111:2053?security=tls&type=ws&headerType=&path=%2Fdashfair%3Fed%3D2560&host=forgermany.fairit.ir&sni=0e3255d2b1ffb1ee.fairit.ir&fp=firefox&alpn=h2#%F0%9F%90%B2%20papa%2010689
+vless://c28fa669-acea-4cbf-93a0-bad53173d808@169.40.32.171:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SEMSzhf2LCuWAQyMNwV7OkKxWcwuYUGoWzfT6bELNQQ&security=reality&sid=0d0746d9f7&sni=www.icloud.com&spx=%2FEQWbdNlYJXQu3lC&type=tcp#%F0%9F%90%B2%20papa%2010690
+vless://82d6c54f-bdfe-4b4b-82af-23512489de45@104.18.139.67:2053?security=tls&type=ws&headerType=&path=%2Fdashfair%3Fed%3D2560&host=forgermany.fairit.ir&sni=837a16fd3a7cb034.fairit.ir&fp=firefox&alpn=h2#%F0%9F%90%B2%20papa%2010691
+vless://82d6c54f-bdfe-4b4b-82af-23512489de45@172.67.74.224:2053?security=tls&type=ws&headerType=&path=%2Fdashfair%3Fed%3D2560&host=forgermany.fairit.ir&sni=d2d03e9fea0d2892.fairit.ir&fp=firefox&alpn=h2#%F0%9F%90%B2%20papa%2010692
+vmess://eyJhZGQiOiI2Ny4yMjAuODUuNDYiLCJhaWQiOiIwIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiMTgwMDAiLCJwcyI6IvCfpoQgcGFwYSAxMDY5MyIsInNjeSI6ImFlcy0xMjgtZ2NtIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001269pz2.cybervena.com:50099#%F0%9F%A6%84%20papa%2010694
