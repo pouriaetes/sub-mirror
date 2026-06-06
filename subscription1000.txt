@@ -1,8 +1,3 @@
-vless://f65bca4e-9909-4c00-b118-8262a8b4df39@163.5.94.245:50308?encryption=none&type=tcp&headerType=none#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%209501
-vless://d5468e62-dfc1-4e6e-bdb5-76206ade51fc@sv3.azparadox.ir:8880?security=none&allowInsecure=0&encryption=none&type=ws&host=azsv3.ir5ive.ir&path=/#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%209502
-vless://e92591c6-98e1-4304-ba40-935808607451@arvancloud.ir:8880?encryption=none&security=none&type=ws&host=wt.programming-coding.ir&path=%2F#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%209504
-trojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%209505
-vless://db95b766-43a8-0014-9b5d-5ca6f2735188@de01.goodmaximum.com:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=portal.glimmerhouse.com&sid=77778028b56c8704&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&headerType=none#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%209506
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?security=none&allowInsecure=0&encryption=none&type=xhttp&path=/Tignal&mode=auto#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%209507
 vless://2c36bf33-1ec0-45e8-84af-84eeccd56ca5@45.152.67.34:47488?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%209508
 vless://c931f737-cafe-4e4f-998a-a65517941256@185.242.247.206:8443?security=reality&encryption=none&pbk=Ubibgn_MlW_zHo9LwjNH_b6SLNWwTJFwq7wW2ggLtUs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=88ce6b586fcaf681#%F0%9F%A6%84%20papa%209509
@@ -998,3 +993,8 @@ vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@vbcxnzmlkpqwtrzyyfsj.sd.noafra.ir:8
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#%F0%9F%A6%84%20papa%2010671
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#%F0%9F%A6%84%20papa%2010672
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#%F0%9F%A6%84%20papa%2010676
+vless://66b8d6a2-4fbd-499c-b549-d99f1bb12b6a@iaa.subchar.ir:11004?encryption=none&host=iaa.subchar.ir&path=%2F&security=none&type=ws#%F0%9F%90%B2%20papa%2010678
+vless://5a201e9e-ac9a-4d91-afb6-9ee68d2cf967@www.speedtest.net:443?encryption=none&security=tls&sni=roUNd-salaD-aF69.xiWoXO6298.workers.DEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=round-salad-af69.xiwoxo6298.workers.dev&path=%2FeyJqdW5rIjoiaW1IZDdJdHdZdWdoIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OmIwOjY0OjpdIl19%3Fed%3D2560#%F0%9F%90%B2%20papa%2010679
+trojan://telegram-id-directvpn@18.156.210.131:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%90%B2%20papa%2010680
+trojan://telegram-id-privatevpns@18.156.210.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%90%B2%20papa%2010681
+vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=/vless/#%F0%9F%A6%84%20papa%2010683
