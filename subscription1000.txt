@@ -1,13 +1,3 @@
-vless://d3d046fa-d372-430a-8ed9-083d62c44efb@45.130.125.194:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&fp=chrome&type=xhttp&sni=vip.mojaz-persian-music.ir#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2015077
-vless://e4f6fc7e-823d-400f-b5b5-c9402e01b8f5@185.206.95.202:80?path=%2Fws&security=&encryption=none&type=ws#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2015078
-vless://77c79689-5cfb-4eff-b4db-aa2e853ac16d@5.75.196.174:443?security=reality&encryption=none&pbk=qr9I7Hv2oZ2F0BiWgy9DmYHp0vcFEXcNRVHkyFg3OUw&headerType=none&fp=chrome&spx=%2FJcUWq4LfbSits2d&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=1e012324864f4510#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2015079
-hysteria2://Vitamini_Channel@cdn.accuratenetworkchecker.ir:59095?security=tls&obfs=salamander&obfs-password=ao5xmpi6qiedxrs2&insecure=1&sni=cdn.accuratenetworkchecker.ir#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2015080
-vless://dc58647a-ceed-4cef-ad52-bb0e10112f5b@i.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2015082
-vless://dc58647a-ceed-4cef-ad52-bb0e10112f5b@am.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2015083
-vless://dc58647a-ceed-4cef-ad52-bb0e10112f5b@ips.list.nonpath.ir:3350?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=ios&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2015084
-vless://dc58647a-ceed-4cef-ad52-bb0e10112f5b@dubai.gmax12.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2015085
-vless://dc58647a-ceed-4cef-ad52-bb0e10112f5b@ips.gcore.mobileemdad.top:42538?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=ips.gcore.mobileemdad.top#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2015086
-vless://dc58647a-ceed-4cef-ad52-bb0e10112f5b@finland.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2015087
 vless://dc58647a-ceed-4cef-ad52-bb0e10112f5b@ips.it.mobileemdad.top:36854?encryption=none&security=none&type=tcp&headerType=http&path=%2Fplay&host=play.google.com#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2015088
 vless://dc58647a-ceed-4cef-ad52-bb0e10112f5b@solar.appleseraj.ir:2083?encryption=none&security=tls&type=ws&headerType=none&path=%3Fed%3D2048&sni=mx.mahoshid.ir&fp=chrome&alpn=h2#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2015089
 vless://dc58647a-ceed-4cef-ad52-bb0e10112f5b@du.mobileemdad.top:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=du.mobileemdad.top#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2015090
@@ -998,3 +988,13 @@ vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.12.149:80?encryption=none&ho
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#%F0%9F%A6%84%20papa%2016128
 vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0Ijo0NDMsInBzIjoi8J+mhCBwYXBhIDE2MTI5IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
 vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@45.85.93.51:443?security=reality&encryption=none&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=www.samsung.com&sid=a1b2c3d4#%F0%9F%A6%84%20papa%2016130
+vless://3b7a6f03-2481-40cd-b7bb-e1a85a2e36fa@dtitly.dtgame.website:69?security=reality&encryption=none&pbk=W_0O5fiA1zi8nXHksSKSTLzwLPyjECWNES5-gDAbQRY&headerType=none&fp=firefox&type=tcp&sni=www.yahoo.com&sid=197fe3f584bc15f3#%F0%9F%90%B2%20papa%2016131
+trojan://humanity@208.103.161.170:443?security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=www.calmloud.com&path=%2Fassignment#%F0%9F%90%B2%20papa%2016132
+vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv168.towersflowerss.com:443?flow=&path=%2F&type=ws#%F0%9F%90%B2%20papa%2016133
+vless://7cbb6583-b453-4f9a-82b7-9a8d86624849@mohandess.nikator.ir:29464?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=l6aGrXD2Mupi3NVrJCTQZOJpfZwhSni40lxSHMemwjg&security=reality&sid=e13b512565&sni=www.yahoo.com&spx=%2FRNWJ76rIzp7WnGt&type=tcp#%F0%9F%90%B2%20papa%2016134
+vless://a01daac7-1e65-4645-854d-b47d226f6b08@188.114.98.0:443?path=%2F&security=tls&encryption=none&host=y6-3cj.PAgES.DEV&type=ws&sni=y6-3cj.PAgES.DEV#%F0%9F%A6%84%20papa%2016135
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#%F0%9F%A6%84%20papa%2016136
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.158.225:8443?sni=cdn3-87.vk-cdnvideo.com&fp=chrome&security=tls#%F0%9F%A6%84%20papa%2016137
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg==@ru.moktana.app:51523#%F0%9F%A6%84%20papa%2016138
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#%F0%9F%A6%84%20papa%2016139
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#%F0%9F%A6%84%20papa%2016140
