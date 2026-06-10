@@ -1,12 +1,14 @@
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:48697?security=tls&sni=gh.01.naiun.bilibili.com#%F0%9F%A6%84%20papa%2016489
+vless://2bd6f1bd-378e-40ad-8981-229800f1340e@norman.ns.cloudflare.com:443?path=/ljrnxaws&security=tls&encryption=none&type=ws&sni=638990351320529492.prius#%F0%9F%90%B2%20papa%2016521
+vless://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@www.speedtest.net:2096?path=/eyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=digikalaa.dpdns.org&fp=chrome&type=ws&sni=DiGIkALaA.dpdns.ORG#%F0%9F%90%B2%20papa%2016522
 trojan://升级订阅解锁全部节点@z-eu1.mfa.cat:10105?allowInsecure=1&security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%90%B2%20papa%2016501
 trojan://升级订阅解锁全部节点@z-eu2.mfa.cat:10111?allowInsecure=1&security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%90%B2%20papa%2016502
 trojan://升级订阅解锁全部节点@z-eu1.mfa.cat:10033?allowInsecure=1&security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%90%B2%20papa%2016503
 trojan://升级订阅解锁全部节点@z-eu2.mfa.cat:10031?allowInsecure=1&security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%90%B2%20papa%2016504
-trojan://升级订阅解锁全部节点@z-sg2.mfa.cat:10010?allowInsecure=1&security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%90%B2%20papa%2016496
 trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-us7.mfa.cat:443?allowInsecure=1&security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%90%B2%20papa%2016497
 trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-us8.mfa.cat:443?allowInsecure=1&security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%90%B2%20papa%2016498
 trojan://升级订阅解锁全部节点@z-sg2.mfa.cat:10013?allowInsecure=1&security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%90%B2%20papa%2016499
+vless://32f5d535-781e-4612-a7cd-66e68bb9666c@95.179.165.163:2020?encryption=none&type=tcp#%F0%9F%90%B2%20papa%2016520
+vless://cbbc5fd1-f8fe-459c-b53a-b3f5fef1d1be@188.114.97.6:2096?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=de.hexkarimdns.com&sni=de.hexkarimdns.com&fp=chrome#%F0%9F%90%B2%20papa%2016523
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443#%F0%9F%A6%84%20papa%2016482
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%A6%84%20papa%2016483
 vmess://eyJhZGQiOiIxMDcuMTc1LjkxLjExOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMWJiMWY5NWYtNzQyNS00NDQyLTkzZjctOGZjMWJkMWEyMDAxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3YycmF5LXdpc3AiLCJwb3J0Ijo0NDMsInBzIjoi8J+mhCBwYXBhIDE2NDg0IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
@@ -23,7 +25,6 @@ vless://66031b35-3a36-4fc1-9225-b7c39a7b4453@52.76.240.5:35349?security=reality&
 vless://f86f5a03-3872-46b5-bf03-a50388a0261d@a1-tss.pages.dev:443?encryption=none&path=/&security=tls&type=ws#%F0%9F%A6%84%20papa%2016505
 vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80?path=%2Fvless&security=&encryption=none&type=ws#%F0%9F%A6%84%20papa%2016506
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#%F0%9F%A6%84%20papa%2016515
-vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.208.22.155:10034?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%90%B2%20papa%2016480
 vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?encryption=none&host=picassooo.info&path=/aymdlws&security=tls&sni=picassooo.info&type=ws#%F0%9F%A6%84%20papa%2016507
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%A6%84%20papa%2016508
 trojan://humanity@188.114.98.0:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#%F0%9F%A6%84%20papa%2016509
@@ -37,4 +38,3 @@ vless://4da72a60-61b9-4571-a054-1bba24bf6728@151.101.110.219:443?path=%2F&securi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080#%F0%9F%A6%84%20papa%2016518
 trojan://96sc719vi2gtuqp6@178.83.46.50:51117?alpn=h2,http/1.1&fp=chrome&host=&path=/&security=tls&sni=&type=httpupgrade#%F0%9F%A6%84%20papa%2016519
 vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoi8J+mhCBwYXBhIDE2NTAwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?type=ws&security=none&path=/#%F0%9F%A6%84%20papa%2016481
