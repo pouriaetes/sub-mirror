@@ -4,12 +4,12 @@ trojan://升级订阅解锁全部节点@z-eu1.mfa.cat:10105?allowInsecure=1&secu
 trojan://升级订阅解锁全部节点@z-eu2.mfa.cat:10111?allowInsecure=1&security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%90%B2%20papa%2016502
 trojan://升级订阅解锁全部节点@z-eu1.mfa.cat:10033?allowInsecure=1&security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%90%B2%20papa%2016503
 trojan://升级订阅解锁全部节点@z-eu2.mfa.cat:10031?allowInsecure=1&security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%90%B2%20papa%2016504
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-us7.mfa.cat:443?allowInsecure=1&security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%90%B2%20papa%2016497
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-us8.mfa.cat:443?allowInsecure=1&security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%90%B2%20papa%2016498
-trojan://升级订阅解锁全部节点@z-sg2.mfa.cat:10013?allowInsecure=1&security=tls&sni=www.cloudflare.com&type=tcp#%F0%9F%90%B2%20papa%2016499
+vless://b4a10cb3-9835-4027-a5d5-9404ec7b1e4e@167.234.216.84:65501?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=%2FTG%40wxgqlfx&fp=chrome&alpn=http%2F1.1#%F0%9F%90%B2%20papa%2016524
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&host=www.calmloud.com&type=ws&sni=www.calmloud.com#%F0%9F%90%B2%20papa%2016525
+ss://aes-256-gcm:1RRIY6@31.56.113.147:1015#%F0%9F%90%B2%20papa%2016526
+ss://aes-256-gcm:Tu3PxL@188.130.207.77:1018#%F0%9F%90%B2%20papa%2016527
 vless://32f5d535-781e-4612-a7cd-66e68bb9666c@95.179.165.163:2020?encryption=none&type=tcp#%F0%9F%90%B2%20papa%2016520
 vless://cbbc5fd1-f8fe-459c-b53a-b3f5fef1d1be@188.114.97.6:2096?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=de.hexkarimdns.com&sni=de.hexkarimdns.com&fp=chrome#%F0%9F%90%B2%20papa%2016523
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443#%F0%9F%A6%84%20papa%2016482
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%A6%84%20papa%2016483
 vmess://eyJhZGQiOiIxMDcuMTc1LjkxLjExOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMWJiMWY5NWYtNzQyNS00NDQyLTkzZjctOGZjMWJkMWEyMDAxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3YycmF5LXdpc3AiLCJwb3J0Ijo0NDMsInBzIjoi8J+mhCBwYXBhIDE2NDg0IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#%F0%9F%A6%84%20papa%2016485
