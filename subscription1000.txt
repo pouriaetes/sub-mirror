@@ -1,7 +1,3 @@
-vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.216.21.135:10026?security=reality&encryption=none&pbk=yiCjm6JjD4XLlgj3oaJDUEqLq95A_JWVLC9R65JG7xo&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=736a2382c70b464d#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2015500
-trojan://Masir_Sefid@84.234.31.249:2083?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FChZzHJgLH1mdM6A&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2015501
-hysteria2://5z15av99psrlhdqp@32.195.51.20:39150?security=tls&obfs=salamander&obfs-password=dlxmzvxvcp3i6v0e&insecure=0&sni=32.195.51.20#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2015502
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2015503
 vless://252ac42c-6c95-41ad-b5cc-705c4efa4e73@104.24.132.66:80?path=%2F&security=none&encryption=none&host=free.simorgh.online&type=ws#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2015504
 vless://8f6e9139-ed50-4323-afe8-b84f7ce47473@188.114.97.6:443?mode=packet-up&path=%2Fapiii&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=op.sonicc.online#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2015505
 vless://579356e7-1156-4d88-bc04-375ac954dac1@ir-DE3.zarghamweb.ir:64828?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=parseh.zarghamportal.ir&fp=chrome&type=ws&allowInsecure=0&sni=parseh.zarghamportal.ir#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2015506
@@ -998,3 +994,7 @@ vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&en
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBQm9FcHhlVTlGYlFyN19KbjdLVTRzVXFEN1JLakJzMg==@85.192.49.179:51523#%F0%9F%A6%84%20papa%2016695
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYngxRnc3bUVOQ2Q3dlpNdm9yUVo1@193.29.139.227:8080#%F0%9F%A6%84%20papa%2016696
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@155.46.167.30:8880?type=ws&host=vms.lifetime50.workers.dev&path=#%F0%9F%A6%84%20papa%2016697
+vless://64fe66b9-70bb-48dd-b353-10a22354cbd8@46.4.162.63:443?security=none&type=tcp#%F0%9F%90%B2%20papa%2016698
+vless://f681053c-477c-4ce5-b4b9-cc286bad5123@fi.riotvpn.eu:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=avatars.mds.yandex.net&fp=randomized&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#%F0%9F%90%B2%20papa%2016699
+vless://e97a7931-500b-4777-82a2-4237f15bcedd@lt-cherry-01.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=chrome&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#%F0%9F%90%B2%20papa%2016700
+vless://6cb2af25-9d59-43bd-a8fa-682e4898e081@in.maximum-vpn.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=roCvVZ0atQ-_68OSDPuknzHchm6djGzQB4Ydl5n31Fg&sid=1a2b3c4d5e6f7080&sni=www.microsoft.com#%F0%9F%90%B2%20papa%2016701
