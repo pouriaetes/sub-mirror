@@ -1,9 +1,3 @@
-vless://f07a3816-f527-4ce8-8d21-ada012618695@geR-mTn.6.6.6.6.Divar.ir.Site.Com.oNthisWebsiteONlycanWin.shAkhLe.iR:52525?encryption=none&headerType=http&host=status.play.google.com&security=none&type=tcp#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2035803
-ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@it5.taskflowhub.org:2083#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2035804
-vless://523e4a69-8dec-4ef1-aa14-6d8026b0f617@sinavip4.cnavippanel.com:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2035805
-vless://523e4a69-8dec-4ef1-aa14-6d8026b0f617@sinavip5.cnavippanel.com:8091?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2035806
-vless://523e4a69-8dec-4ef1-aa14-6d8026b0f617@sinavip6.cnavippanel.com:8092?security=none&type=tcp&headerType=http&path=%2F&host=#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2035807
-trojan://telegram-id-directvpn@13.36.158.160:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2035808
 vless://523e4a69-8dec-4ef1-aa14-6d8026b0f617@1.1.1.1:80?security=none&type=tcp&headerType=none&path=&host=#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2035809
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MTMVPN&headerType=http&type=tcp#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2035810
 trojan://telegram-id-privatevpns@13.36.158.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2035811
@@ -998,3 +992,9 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%F0%9F%A6%84%20papa%2036
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@64.176.36.17:443?security=tls&sni=tjsp.hhxaf.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=tjsp.hhxaf.cc.cd&path=/#%F0%9F%A6%84%20papa%2036967
 ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw==@chengbai02.ascwt179.com:13223#%F0%9F%A6%84%20papa%2036968
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca10.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#%F0%9F%A6%84%20papa%2036970
+vless://c2f0a8f0-36fe-4a94-824b-bca271ca642b@188.114.97.6:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=alphacdn.alphashops.shop&fp=chrome&type=ws&allowInsecure=0&sni=alphacdn.alphashops.shop#%F0%9F%A6%84%20papa%2036972
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=none&encryption=none&host=v2rayNplus-v2rayNplus-v2rayNplus&type=ws#%F0%9F%A6%84%20papa%2036973
+vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?fp=firefox&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&security=reality&sid=c56c3ba3b9f676c5&sni=c.primarymaster.online&type=grpc#%F0%9F%A6%84%20papa%2036974
+vless://ea89bb52-cd5e-4b4a-981a-5dbe66c9adcd@31.133.0.240:2053?allowInsecure=0&sni=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev&type=ws&host=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev&path=/lib/tag/mfp=chrome&security=tls#%F0%9F%A6%84%20papa%2036976
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#%F0%9F%A6%84%20papa%2036978
+vless://8658fe29-466b-41d9-b1f9-05c268054f87@de-1.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=random&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#%F0%9F%A6%84%20papa%2036981
