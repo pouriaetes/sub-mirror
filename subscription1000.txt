@@ -1,10 +1,3 @@
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@173.245.58.165:2053?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2070834
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2070835
-vless://891710f4-45f3-41b1-99a6-6f1510f83c10@199.232.22.39:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed&security=tls&encryption=none&insecure=0&host=pan21.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2070836
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.59.1:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2070837
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.207:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2070838
-vless://bb5b4296-e7fa-42f9-9f65-64306413e00a@89.208.113.50:500?flow=xtls-rprx-vision&encryption=mlkem768x25519plus.native.0rtt.Yi2eu29TQnEMr0l6uYZXDSG9Q0whBPMGN5zwkPneowY&security=none&type=tcp&headerType=none#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2070839
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.216:443?security=tls&sni=hd.kpcloud.eu.org&type=ws&path=%2Ffreecodes#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2070840
 vless://3f298aca-2412-49ac-9f20-235f0e448d31@soskeynets.iranlast.com:7000?Telegram=@soskeynets,@soskeynets,@soskeynets,@soskeynets,@soskeynets,@soskeynets,@soskeynets&security=reality&encryption=none&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&headerType=none&fp=qq&type=tcp&sni=yahoo.com#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2070841
 vless://b63f2edd-690c-4#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2070842
 vless://a13df940-020c-4#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2070843
@@ -998,3 +991,10 @@ vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@89.105.212.138:443?encryption=none&
 vless://3d244afc-60ef-468a-9b19-f4bbad7e8ef1@81.31.211.111:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2071941
 vless://d4d2de4b-2aa0-4a49-8c59-05d83d72af93@81.31.211.108:2085?encryption=none&security=none&serviceName=vless&type=grpc#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2071942
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3dG50Mnl1eHdsdmVrc3o1@185.117.0.38:54753#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2071943
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.254:2053?type=ws&encryption=none&host=cXrolvpn.pagEs.DEv&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&sni=cXrOLvPn.PAgEs.dev#%F0%9F%90%B2%20papa%2071944
+vless://656fff66-a30c-4da9-9cba-73126305ae7b@193.151.140.202:443?security=none&type=tcp&host=www.speedtest.net&headerType=http#%F0%9F%90%B2%20papa%2071945
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwak5qWTBNREk1TWkxa1pEZGxMVFJtWW1ZdE9XWmlPQzB3Wm1VNU5EZzBaREUyTXpR@free.2weradf.xyz:36641#%F0%9F%90%B2%20papa%2071946
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwak5qWTBNREk1TWkxa1pEZGxMVFJtWW1ZdE9XWmlPQzB3Wm1VNU5EZzBaREUyTXpR@free.2weradf.xyz:36315#%F0%9F%90%B2%20papa%2071947
+vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@195.63.137.251:8090?encryption=none&host=rukr.speedload.ru&path=%2Fws&security=none&type=ws#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2071948
+vless://cebf31b3-a467-4b84-9dce-62bed1c26719@81.31.211.113:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2071949
+vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@185.141.227.139:9444?allowInsecure=1&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=&sni=max.ru&type=tcp#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2071950
