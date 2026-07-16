@@ -1,8 +1,3 @@
-vless://3f298aca-2412-49ac-9f20-235f0e448d31@soskeynets.iranlast.com:7000?Telegram=@soskeynets,@soskeynets,@soskeynets,@soskeynets,@soskeynets,@soskeynets,@soskeynets&security=reality&encryption=none&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&headerType=none&fp=qq&type=tcp&sni=yahoo.com#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2070841
-vless://b63f2edd-690c-4#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2070842
-vless://a13df940-020c-4#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2070843
-vless://2cd6ed0f-636e-4#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2070844
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#%F0%9F%A6%84%20papa%2070845
 vless://526d2855-c7d1-ecf3-e4f8-5a75f77d5bb3@104.245.242.4:993?security=reality&type=tcp&flow=xtls-rprx-vision&sni=download.nvidia.com&fp=firefox&pbk=mdN58_sSqP17lYoc-cWvIgtHjzb8vlqJv5t24Y9Bnic#%F0%9F%A6%84%20papa%2070846
 trojan://XG59623478@growing-oyster.rooster465.autos:443?security=tls#%F0%9F%A6%84%20papa%2070847
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576?encryption=none&type=tcp&security=reality&headerType=none&sni=fuck.rkn&fp=chrome&insecure=1&allowInsecure=1&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&flow=xtls-rprx-vision#%F0%9F%A6%84%20papa%2070848
@@ -998,3 +993,8 @@ ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwak5qWTBNREk1TWkxa1pEZGxMVFJ
 vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@195.63.137.251:8090?encryption=none&host=rukr.speedload.ru&path=%2Fws&security=none&type=ws#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2071948
 vless://cebf31b3-a467-4b84-9dce-62bed1c26719@81.31.211.113:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2071949
 vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@185.141.227.139:9444?allowInsecure=1&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=&sni=max.ru&type=tcp#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2071950
+vless://e56af963-294e-4917-8102-6e7c59ad38db@104.16.11.133:80?type=tcp#%F0%9F%90%B2%20papa%2071951
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@99.80.16.118:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#%F0%9F%90%B2%20papa%2071952
+vless://8e608355-8fb5-430a-98cc-3fe0a661ab59@172.66.47.180:8880?security=none&type=ws&host=www.speedtest.net.www.zula.ir.cloudflare.com.tescoco.cfd.&path=%2F%3Fed%3D2560#%F0%9F%90%B2%20papa%2071953
+vless://24d49ddd-67c1-4821-b5b9-f12107366978@151.101.3.147:80?encryption=none&security=none&type=xhttp&host=baharishomalyour-name.global.ssl.fastly.net&path=%2Fapi&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%220%22%7D#%F0%9F%90%B2%20papa%2071954
+vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@89.105.212.138:443?security=reality&sid=43dcff53849b81e6&flow=xtls-rprx-vision&sni=nl.quattro-tech.ru&type=tcp&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&encryption=none&headerType=none#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2071955
