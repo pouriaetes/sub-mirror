@@ -1,12 +1,3 @@
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2070991
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.204.6:22224?encryption=none&security=none&type=tcp#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2070993
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.204.6:22222?encryption=none&security=none&type=tcp#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2070994
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.204.6:22223?encryption=none&security=none&type=tcp#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2070995
-vless://b73f550b-b234-4232-9029-795fdee38039@uc.callofdeuti.ir:80?security=reality&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.bHRJoW9nvDfcJd3ZRLXLDwT4i216yH90Uz42CXEoVUc&pbk=uOXWzNhsJ6sMuaZV8zPNZLu0kHNoUmDTRv6P1mlnsXk&headerType=none&fp=random&type=tcp&sni=www.yahoo.com&sid=7e22b650c8262519#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2070996
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2070998
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2070999
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2071000
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#%F0%9F%A6%84%20papa%2071003
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#%F0%9F%A6%84%20papa%2071004
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#%F0%9F%A6%84%20papa%2071005
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.101:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#%F0%9F%A6%84%20papa%2071008
@@ -998,3 +989,12 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.144.101:22223?security=&encry
 vless://8db76567-25f0-44eb-bebb-333c4dc13539@static2.hexogate.net:443?security=reality&encryption=none&pbk=I2_bIN-vkKdu02l_1TXzb1FCu5oZHMvx6s_j6lqL7zI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=66d6d3d24148fc1f#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2072090
 vless://3649e978-9db9-4c3b-a1a7-16c9a55f8813@snapp.ir:80?type=ws&encryption=none&path=%2Fapi%2Flive%2Fv3&host=dev.delitech.ir&security=none#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2072091
 vless://05da2e04-cb49-4450-826a-ec6fae866725@apanel.alphanistam.ir:2083?fp=chrome&sid=12&spx=%2FJEdqp8TwfeoOsiK&security=reality&type=tcp&pbk=EmKzkQ0z4Ng6t0jgLACRCvG5OueagvfaVRVVSfu1qHg&sni=cloudflare.com&headerType=none&encryption=none#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2072092
+vless://7dc3461c-630f-4547-82a9-08042b0daba5@31.58.76.95:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HN1XHrqmB_-gDnVeXgmyPZFWAZEo4aTqlU-cIWh6hm0&security=reality&sni=tradingview.com&type=tcp#%F0%9F%90%B2%20papa%2072093
+vless://2b8738de-1af5-4267-b101-c05707769ed4@fans.liverpool.qzz.io:2053?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=fans.liverpool.qzz.io&path=%2FeyJqdW5rIjoiZXlpMnFWRURmWkp5ZCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=FaNs.livErpoOl.qZZ.io&type=ws#%F0%9F%90%B2%20papa%2072094
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@188.119.149.27:1080#%F0%9F%90%B2%20papa%2072095
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@62.210.123.100:1080#%F0%9F%90%B2%20papa%2072096
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@37.120.139.234:1080#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2072097
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.125.5.177:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2072098
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@84.247.48.78:1080#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2072099
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@185.156.174.106:1080#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2072100
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@146.70.222.126:1080#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2072101
