@@ -1,8 +1,3 @@
-vless://9bc01e22-2d73-44ea-8393-28a591f12002@104.19.89.63:8443?path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.&security=tls&encryption=none&host=eiiim.danesh-bonyan.Store&type=ws&sni=J0in-Telegram-EiiiM.danesh-bonyan.Store#%F0%9F%90%B2%20papa%2072413
-vless://df1017aa-1d35-4301-8266-f908c0bedc56@tun.temas-bor.ir:443?security=reality&type=tcp&headerType=&path=&host=&sni=login.yahoo.com&fp=firefox&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&spx=%2F#%F0%9F%90%B2%20papa%2072414
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.228:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=firefox&echfq=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&allowinsecure=0&type=tcp&headerType=none#%F0%9F%90%B2%20papa%2072415
-vless://11e57eeb-ffdf-4983-a9fa-ad352dea7253@45.206.5.122:443?security=reality&encryption=none&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=500aec9e9e5e2212#%F0%9F%90%B2%20papa%2072416
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-ei9.pages.dev:8443?path=%2FxSlwpv8aOiNg54Qu%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=jOInMaHdISERVer-Ei9.PAgEs.dEv&fp=randomized&type=ws&sni=jOinMahDiSeRveR-EI9.PAgEs.deV#%F0%9F%90%B2%20papa%2072417
 trojan://tg-dns68@162.159.153.230:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%F0%9F%90%B2%20papa%2072418
 vless://9f31692b-7308-4a97-9a4b-5ffac8992a3e@167.233.115.73:1070?security=reality&type=tcp&headerType=none&path=&host=&sni=yahoo.com&fp=chrome&pbk=dODBH3TVhSwElfHRRlIBu5mtTOh3Opm_EYplb3Wqkic&sid=62398309a87b4f27#%F0%9F%90%B2%20papa%2072419
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.135:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=185.137.157.135#%F0%9F%90%B2%20papa%2072420
@@ -998,3 +993,8 @@ vless://b052df40-d51c-456c-9bd6-57af01a87e4e@cdn.pinecloud.net:443?encryption=no
 vless://b052df40-d51c-456c-9bd6-57af01a87e4e@172.64.151.120:443?encryption=none&type=ws&host=nl1.cloudbench.app&path=/cdn&security=tls&fp=chrome&sni=nl1.cloudbench.app&alpn=http/1.1#%F0%9F%90%B2%20papa%2074038
 vless://d67fae6d-65a9-4c28-adca-130ba9a91bc7@64.176.75.52:443?type=tcp&encryption=none&security=none#%F0%9F%90%B2%20papa%2074039
 trojan://HW85960347@deep-ringtail.rooster465.autos:443?allowInsecure=1&sni=deep-ringtail.rooster465.autos#%F0%9F%90%B2%20papa%2074040
+vless://03425c60-32cc-42a4-9d3d-ea14fdd7dcbb@46.101.108.197:22508?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#%F0%9F%90%B2%20papa%2074041
+trojan://JA96378052@upward-puma.rooster465.autos:443?allowInsecure=1&sni=upward-puma.rooster465.autos#%F0%9F%90%B2%20papa%2074042
+trojan://HW85960347@happy-porpoise.rooster465.autos:443?allowInsecure=1&sni=happy-porpoise.rooster465.autos#%F0%9F%90%B2%20papa%2074043
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.090227.xyz:443?path=%2F%3Fv2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&sni=t1s1.rittbo.kdns.fr#%F0%9F%90%B2%20papa%2074044
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.24.197.20:2095?path=%2F&security=none&encryption=none&host=cnmfangbinxing.cnmfangbinxing-q.workers.dev&type=ws#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2074053
