@@ -1,10 +1,3 @@
-vless://60a8bf5d-d434-4a73-8b0d-65555f559e86@tery.aliyostd.com:9443?security=reality&encryption=none&pbk=F2YMP337wdfSQlkq8kbeqs0e19HEhV9JdxYf4Om_sS8&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=14ac481b178e6dd8#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2072995
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.123.79:22224?encryption=none&security=none&type=tcp#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2072996
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.123.79:22222?encryption=none&security=none&type=tcp#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2072997
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.123.79:22223?encryption=none&security=none&type=tcp#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2072998
-vless://6d6b93ee-10f2-47fa-a0b1-414d14f42a92@46.8.231.216:2083?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=chrome&pbk=iX_k57rKzntgnjqNfNKJ_Ty5EP6qeZrYtPMfwfdFc0U&sid=15e71950&spx=%2FufxEehR0pYXxYqF&type=tcp&headerType=none#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2073000
-vless://6d6b93ee-10f2-47fa-a0b1-414d14f42a92@46.8.231.216:2053?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=7Wlx4W876dM9RsBuCoA3tEGkZvTtFv1BsPAda2D3JFQ&sid=6e118f00f863&spx=%2FXofe9jOUW81MuQ9&type=grpc#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2073001
-vless://ecad47b0-249e-0014-adff-e3c8f02b1897@185.93.33.7:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.quattro-tech.ru&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2073002
 vless://a2292e36-fafb-6634-051d-1d99f45503c7@5.252.26.173:8380?encryption=none&security=reality&sni=yahoo.com&fp=random&pbk=xtMO91xo5JUl2SvkUtozmSr2lLBFEkghyVALchFrYRY&sid=50acf6&spx=%2F%3Fed%3D8380&type=tcp&headerType=none&host=yahoo.com#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2073004
 vless://df4bda66-59d7-4b79-abd0-0e4ee14d7c70@188.130.207.217:443?encryption=none&security=none&type=ws&host=play.google.com&path=%2Fws#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2073005
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptZHA2NWc2bGZ3cGh6Mnc2@46.8.231.216:1010?#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2073006
@@ -998,3 +991,10 @@ vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@167.104.219.146:6300?security=reali
 trojan://-------BanV2ray------@179.237.75.89:36268?mode=gun&security=reality&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&fp=firefox&spx=%2F&type=grpc&sni=chi.yahoo.com#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2074617
 vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@istanbul.pelzimo.ir:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=qq&type=tcp&sni=play.google.com#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2074618
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.254.201:22223?security=&encryption=none&headerType=none&type=tcp#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2074621
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.254.201:22223?encryption=none&security=none&type=tcp#%F0%9F%90%B2%20papa%2074628
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.254.201:22224?encryption=none&security=none&type=tcp#%F0%9F%90%B2%20papa%2074629
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.225.88:8882?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%90%B2%20papa%2074630
+vless://50414e45-4c5f-5a45-5553-983fd9b90e78@172.67.197.181:8080?path=%2Fstream%2FPANEL_ZEUS%2F50414e45&security=none&encryption=none&host=zeus-panel-a136la.gh-ghanbari62.workers.dev&type=ws#%F0%9F%90%B2%20papa%2074631
+trojan://-----------BanV2ray-----------@uupupupuppupupupuuppupupupupuup-11.poki-pakipon.ir:52662?security=reality&pbk=6PX0SCkt6TANowjz80Ugiv4cSg0vF8g0mVt4WbyIGhI&fp=firefox&spx=%2F185c45c838cb9ee&type=grpc&sni=chi.yahoo.com&sid=565b#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2074633
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.254.201:22223?security=&encryption=none&headerType=&type=tcp#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2074637
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.254.201:22224?security=&encryption=none&headerType=&type=tcp#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2074638
