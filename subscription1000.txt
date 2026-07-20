@@ -1,7 +1,3 @@
-vless://711c018e-2692-4aa8-93f3-544d83fcd16c@jdwadgw.cvewfjg.shop:443?security=reality&encryption=none&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7a76f3c4b9dd#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2073177
-vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@185.231.101.89:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=se.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&allowinsecure=0&type=tcp&headerType=none#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2073178
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#%F0%9F%90%B2%20papa%2073179
-trojan://NQ26071394@harmless-pegasus.rooster465.autos:443?allowInsecure=1&sni=harmless-pegasus.rooster465.autos#%F0%9F%90%B2%20papa%2073180
 trojan://NQ26071394@elegant-marten.rooster465.autos:443?allowInsecure=1&sni=elegant-marten.rooster465.autos#%F0%9F%90%B2%20papa%2073181
 trojan://NQ26071394@wise-rhino.rooster465.autos:443?allowInsecure=0&sni=wise-rhino.rooster465.autos#%F0%9F%90%B2%20papa%2073182
 vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@gateway.onetimeok.com:443?mode=gun&security=reality&encryption=none&pbk=TLAYLGGk8xnADNCg4_7-E3YqlC8L4lVo4m7aauBL7kU&fp=firefox&type=grpc&serviceName=edge.v2.RelayService&sni=gateway.onetimeok.com&sid=ce7d5b58da528cf1#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2073190
@@ -998,3 +994,7 @@ vless://9db2f138-e66b-4269-a645-94e5b739bf5a@151.101.130.219:443?security=tls&sn
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.90:443?security=tls&sni=kb.ylks.xyz&type=ws&path=%2Fblue#%F0%9F%90%B2%20papa%2074817
 vmess://eyJhZGQiOiI2MS4yNDUuMTEuNjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjNoLXBoaWxpcHBpbmVzMS4wOXZwbi5jb20iLCJpZCI6ImU3ZDZhMDUwLWU1MmEtNGQ4NS1hYzI2LTk1Zjg1ZTQ0ZThmNCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6IvCfkLIgcGFwYSA3NDgxOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.234:443?security=tls&sni=kb.ylks.xyz&type=ws&path=%2Fblue#%F0%9F%90%B2%20papa%2074819
+vless://c4ebcfa3-b4dd-4a2b-87b6-dfd7efd41b01@85.234.73.196:443?security=reality&encryption=none&pbk=WZ2vJKVZ3vLP97hKRfu8XJnUpXwPgXMPT7aK5s1Yu0g&host=v_ngfree----------------------v_ngfree-v_ngfree----------------------v_ngfree-v_ngfree----------------------v_ngfree-v_ngfree----------------------v_ngfree&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.icloud.com&sid=56#%F0%9F%90%B2%20papa%2074820
+trojan://PD07395842@endless-crappie.rooster465.autos:443?fp=chrome#%F0%9F%90%B2%20papa%2074821
+trojan://PD07395842@above-rabbit.rooster465.autos:443?fp=chrome#%F0%9F%90%B2%20papa%2074822
+vless://29fa091f-65db-44fd-b388-22dc76dd4b97@2.fognet.ru:443?encryption=none&host=2.fognet.ru&path=%2Ffog&security=tls&sni=2.fognet.ru&type=ws#%F0%9F%90%B2%20papa%2074823
