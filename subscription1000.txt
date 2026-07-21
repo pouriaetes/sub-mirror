@@ -1,7 +1,3 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.184.27:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2074002
-hysteria2://91ZKgmi8pu@91.107.152.188:31999?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#%F0%9F%90%B2%20papa%2074005
-vless://bacd8811-1e50-46ec-accf-06149cbdc25d@77.233.214.195:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=BEJH_omzwWCjagdtfdm9-faqD8aOnoLtc-z1ovRXyVk&sid=172e&type=tcp&headerType=none&host=deepl.com#%F0%9F%90%B2%20papa%2074006
-vless://5a3c6bc5-03fa-4a62-b165-1a24b39123e5@65.109.216.56:40038?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%90%B2%20papa%2074007
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzRAcjNtcmNnMDAxMjg2ZWsyLmN5YmVydmVuYS5jb206NTAwOTk/#%F0%9F%90%B2%20papa%2074008
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.161:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=B458ab02.caa-chaNel-woRKeR-pAge-fREe-jhuiHnujhphJkl-nIhgkJn.PageS.DEv&fp=randomized&type=ws&sni=B458Ab02.CAA-CHANeL-Worker-pAGE-freE-jHUIHnujhPhJKl-nihGkjN.pagES.dev#%F0%9F%90%B2%20papa%2074009
 trojan://JA96378052@square-skink.rooster465.autos:443?allowInsecure=1&sni=square-skink.rooster465.autos#%F0%9F%90%B2%20papa%2074010
@@ -998,3 +994,7 @@ vless://44aed101-147c-4f97-bd46-7e4c301595fa@it.sorat-fazaei.ir:53631?encryption
 vless://ae86f68e-84c7-41de-b69f-87285451fb71@45.86.159.131:2085?type=grpc&mode=gun&serviceName=vless#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2075501
 vless://219d7188-f7e2-473b-bc48-974bbab391a7@upload.ansooyefilter.ir:8443?encryption=none&fp=random&pbk=9LyZjKAQkh2_FwDS21QVW05gfBRR77KjatFS8EtRyU4&security=reality&sid=89105c2e8f&sni=streaming.samsung.com&spx=%2F61bbb9dbb093c25&type=tcp#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2075506
 vless://44aed101-147c-4f97-bd46-7e4c301595fa@hex.high-net.ir:2026?encryption=none&security=reality&type=grpc&headerType=none&serviceName=game&authority=status.play.google.com&mode=gun&sni=status.play.google.com&fp=ios&pbk=5DyXktGCUpOuKYKGeKYQvyntuKjImlpXS10AwEhhtyU&sid=8af451f40ad9c2c3#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2075507
+vless://64332188-5854-91f5-7a03-db61a1128a49@69.46.46.56:443?path=%2Fws%2F64332188-5854-91f5-7a03-db61a1128a49&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-1755.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-1755.up.railway.app#%F0%9F%90%B2%20papa%2075508
+trojan://IQ68037294@moving-wren.rooster465.autos:443?allowInsecure=1&sni=moving-wren.rooster465.autos#%F0%9F%90%B2%20papa%2075509
+trojan://IQ68037294@amazed-burro.rooster465.autos:443?allowInsecure=1#%F0%9F%90%B2%20papa%2075510
+trojan://IQ68037294@whole-perch.rooster465.autos:443?allowInsecure=1&sni=whole-perch.rooster465.autos#%F0%9F%90%B2%20papa%2075511
