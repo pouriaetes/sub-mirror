@@ -1,8 +1,3 @@
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRveFlqSm1ZalEwTnkxallqWmxMVFJoWmpndFlqa3lZaTAzTXpnNE9UQTJObVU1T0RB@free.2apzhfa.xyz:31215#%F0%9F%90%B2%20papa%2077016
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@15.204.87.222:8008#%F0%9F%90%B2%20papa%2077017
-vless://1ae6bff4-1516-44f3-b9da-87bcab5191b1@185.226.93.120:8443?security=reality&encryption=none&pbk=VQtNAOH-O0dwJVIx4gyBgi2VRD4HJh3qLKm6tpAvigA&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=c6906dcafe931ef2#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2077019
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.14.137:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#%F0%9F%A6%84%20papa%2077029
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=vangoghhh.info#%F0%9F%A6%84%20papa%2077030
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.2:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=vangoghhh.info#%F0%9F%A6%84%20papa%2077032
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@172.64.34.119:443?path=/sea&security=tls&encryption=none&insecure=0&host=deicl.redstone-vex.sbs&fp=chrome&type=ws&allowInsecure=0&sni=deicl.redstone-vex.sbs#%F0%9F%A6%84%20papa%2077033
 vmess://eyJhZGQiOiJqcDAxLnNjcG5iLnRvcCIsImFpZCI6MCwiaG9zdCI6ImpwMDEuc2NwbmIudG9wIiwiaWQiOiI1MzdhMDM2Zi1hNGFkLTQwNTEtODBjNC0wMTFhNDZjNjJiYjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvNTM3YTAzNmYtYTRhZC00MDUxLTgwYzQtMDExYTQ2YzYyYmIwLXZtIiwicG9ydCI6NDQzLCJwcyI6IvCfpoQgcGFwYSA3NzAzNCIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
@@ -998,3 +993,8 @@ trojan://JA96378052@primary-mallard.rooster465.autos:443?security=tls#%F0%9F%A6%
 trojan://KV63147582@wondrous-dogfish.rooster465.autos:443?security=tls&sni=wondrous-dogfish.rooster465.autos#%F0%9F%A6%84%20papa%2078997
 trojan://CF68213490@16.145.201.0:443?security=tls&sni=capable-eel.rooster465.autos#%F0%9F%A6%84%20papa%2078999
 vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%A6%84%20papa%2079001
+vless://40de6299-d792-4868-8a82-411ead0aa943@nl.go-vpn.club:443?security=reality&type=tcp&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=ed7b9bdfedb9b8e5&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&encryption=none#%F0%9F%A6%84%20papa%2079008
+vless://1f6531a1-a6eb-4274-9f51-4a0899456fcf@195.254.165.243:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=zSjG6wndmLAzE8ykCBXpAm2eh0viWVSy3gt2juXF4EE&sid=eaa8&type=tcp&headerType=none#%F0%9F%A6%84%20papa%2079013
+vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel3.nanaweb.ir:3031?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%A6%84%20papa%2079015
+vless://4a1441b0-7bc8-4906-85cf-6b59c256b480@xn--b6gac.eu.org:443?encryption=none&fp=chrome&host=edt2.yfqh08811.ccwu.cc&path=%2F&security=tls&sni=edt2.yfqh08811.ccwu.cc&type=ws#%F0%9F%A6%84%20papa%2079019
+vless://2a77a470-315c-493d-b690-59b814a804cb@82.40.23.142:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#%F0%9F%A6%84%20papa%2079020
