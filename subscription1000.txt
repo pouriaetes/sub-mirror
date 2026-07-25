@@ -1,12 +1,3 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.198.252.91:22223?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2079285
-trojan://IQ68037294@still-mastodon.rooster465.autos:443?security=tls&sni=still-mastodon.rooster465.autos#%F0%9F%A6%84%20papa%2079286
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%A6%84%20papa%2079288
-trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#%F0%9F%A6%84%20papa%2079289
-trojan://NQ26071394@35.164.15.250:443?security=tls&sni=emerging-hagfish.rooster465.autos#%F0%9F%A6%84%20papa%2079292
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%F0%9F%A6%84%20papa%2079293
-vless://7b102311-43fd-4e8f-877e-8090623c101d@8.35.211.105:2087?security=tls&type=ws&path=/&host=vp15.cc.cd&packetEncoding=xudp&sni=vp15.cc.cd&fp=chrome#%F0%9F%A6%84%20papa%2079294
-trojan://CF68213490@tolerant-rattler.rooster465.autos:443?security=tls#%F0%9F%A6%84%20papa%2079295
-vless://fb978279-0a28-4045-8258-e9ab97deaf2b@108.162.198.125:443?security=tls&type=ws&path=/&host=ourfast.ccwu.cc&packetEncoding=none&sni=ourfast.ccwu.cc#%F0%9F%A6%84%20papa%2079296
 vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?&type=tcp&headerType=none&path=%2F#%F0%9F%A6%84%20papa%2079298
 vless://c27039b0-878c-4da1-b87d-971e9c7d16a9@cf-mci.coixconqwe1.ir:2086?encryption=none&type=xhttp&mode=auto&host=sdasdfgv2.global.ssl.fastly.net.cafearen.ir&path=/?ed%3D8192&security=none#%F0%9F%90%B2%20papa%2079299
 vless://c27039b0-878c-4da1-b87d-971e9c7d16a9@www.speedtest.net:8880?encryption=none&type=httpupgrade&host=blubank.sb244bbbby.ir.postshup.ir&path=/?ed%3D2082&security=none#%F0%9F%90%B2%20papa%2079300
@@ -998,3 +989,12 @@ vless://f17956cd-59cf-4b65-904e-d2714695a217@151.101.130.219:443?security=tls&sn
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.245.235.84:2375#%F0%9F%A6%84%20papa%2081408
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#%F0%9F%A6%84%20papa%2081411
 vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#%F0%9F%A6%84%20papa%2081413
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.83.58:443/?type=ws&encryption=none&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=mmdv2.pages.dev#%F0%9F%90%B2%20papa%2081421
+vless://d5e9f164-e824-42ea-900f-5a49388ddba7@188.114.98.0:80?type=ws&host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&path=/melo/is/needed#%F0%9F%90%B2%20papa%2081422
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.26.249:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#%F0%9F%90%B2%20papa%2081423
+trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%90%B2%20papa%2081424
+vless://76721725-687e-4c0d-b4bc-c783822c38bb@185.118.15.114:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20papa%2081426
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%A6%84%20papa%2081432
+vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel3.nanaweb.ir:3031?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%A6%84%20papa%2081435
+trojan://IQ68037294@sweeping-parakeet.rooster465.autos:443?allowInsecure=0#%F0%9F%A6%84%20papa%2081440
+trojan://FC60532879@wise-longhorn.rooster465.autos:443?security=tls&sni=wise-longhorn.rooster465.autos#%F0%9F%A6%84%20papa%2081443
