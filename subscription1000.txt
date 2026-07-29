@@ -1,10 +1,3 @@
-vless://namedzadimconf@193.93.169.242:53655?path=%2F&security=none&encryption=none&type=ws#C2%20papa%2084857
-vless://8546bcef-8456-41a2-82bc-d2231b42b769@104.21.88.129:8880?&security=false&fp=chrome&type=ws&headerType=none&host=small-tree-9ec0.84-971.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#C2%20papa%2084859
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.158.228:22224?encryption=none&security=none&type=tcp#C2%20papa%2084861
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.158.228:22223?encryption=none&security=none&type=tcp#C2%20papa%2084862
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.178.158.228:22222?encryption=none&security=none&type=tcp#C2%20papa%2084863
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.224.184.245:50099#C2%20papa%2084864
-vless://efeefecf-72f9-4118-9e25-634ca2b2ca11@78.47.104.140:22012?security=reality&encryption=none&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&headerType=&fp=firefox&type=tcp&sni=login.yahoo.com&sid=c6e19c434dc87df7#C2%20papa%2084865
 vless://d6184c9f-b9dd-4564-9fd7-680601b6cb16@tr2.helpower.ir:2087?security=reality&encryption=none&pbk=OCR2Jsxytv_7DXaBAs3JgoL2-na-fBlEXEs4AvWM_Ao&host=play.google.com&headerType=none&fp=edge&type=tcp&sni=play.google.com&sid=719eea5118aa0d04#C2%20papa%2084866
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080?#C2%20papa%2084867
 vless://e912f8d6-f59a-48b1-b5ad-bbe548d7ebf3@83.228.231.239:12001?security=none&encryption=none&headerType=none&type=tcp#C2%20papa%2084868
@@ -998,3 +991,10 @@ vless://7b81d175-d180-4ec8-bbc5-dfe80e8d3b68@144.31.129.42:443?mode=gun&security
 vless://10eabb0e-25cc-4210-82c9-f05d964572d8@31.76.122.42:2053?mode=gun&security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&fp=chrome&type=grpc&serviceName=grpc&sni=play.overcloud.cloud&sid=5c766813929a1fdd#C3%20papa%2086718
 vmess://eyJ2IjoiMiIsInBzIjoiQzMgcGFwYSA4NjcyMSIsImFkZCI6Im1oN3I1YXJkbDB6NWp0Z3kudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwiaG9zdCI6Im1oN1I1QXJkTDB6NWpUR1kudi4zZG5zLnZpcCIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.131:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#C3%20papa%2086726
+vless://73b7d335-4077-4474-be3f-2442cccfef1a@104.194.148.56:443?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=iBxhIrSy2HakD-vyxxBiOSTP3UCic8qWVN8ruyoCFVM&security=reality&sid=1c&sni=www.sony.com&spx=%2FaNmfPT0sZflGoMw&type=xhttp&x_padding_bytes=100-1000#C2%20papa%2086737
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.232.142:62145?#C2%20papa%2086738
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=2.oncloudnineservicestreang.com&fp=chrome&pbk=Mg3ZxHNUFbX96q1HpS3WReeM7rnhEsXXtlEzxALeTDc&sid=d8d3dc6c3ca45dd4&type=tcp&headerType=none#C3%20papa%2086739
+vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf6.466688.xyz:443?sni=cfoo-146.pages.dev&type=ws&host=cfoo-146.pages.dev&path=/QiangLieTuiJian?ed=2560fp=chrome&security=tls#C3%20papa%2086741
+vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@chatgpt.com:2053?encryption=none&fp=chrome&host=ov.iran-servers.shop&path=/J5aLQOY1R9ONWYCM&security=tls&sni=ov.iran-servers.shop&type=ws#C3%20papa%2086742
+vless://2a77a470-315c-493d-b690-59b814a804cb@45.131.212.6:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=abuse.sellflow.org#C3%20papa%2086750
+vmess://eyJhZGQiOiIyMTYuMTA2LjE4My4zNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIyMzI0IiwicHMiOiJDMyBwYXBhIDg2NzUxIiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
