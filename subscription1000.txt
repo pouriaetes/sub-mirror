@@ -1,13 +1,3 @@
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#C%20papa%2089685
-vless://1407ea2c-d6db-40c5-98e9-ab6d1fd416f3@188.72.103.3:443?alpn=h2,http/1.1&encryption=none&extra={#A2%20papa%2089689
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.23.143.23:34045?security=reality&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&sid=e8ab71d0&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&encryption=none#A2%20papa%2089690
-trojan://MiTiVPN@66.81.247.155:443?security=tls&sni=ib-bbg--MiTiVPN---MiTiVPN-u.aPp-cLoud.IR&alpn=http/1.1&type=ws&host=ni--mitivpn-MiTiVPN---MiTiVPN-s-.aPp-cLoud.IR&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/fl#A2%20papa%2089691
-trojan://humanity@185.18.250.245:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#A2%20papa%2089692
-vless://98d8b8cb-19d0-4823-b13b-b47a2fe0a82b@93.114.98.216:443?encryption=none&security=none&type=tcp#A2%20papa%2089693
-vless://90602b99-db7d-4a22-93fc-15dbb4844271@95.216.181.87:42543?security=reality&encryption=none&pbk=Tt-eITJHCLzPYepMzJ7GirOs31h9u-Xcc9uItq2dSSk&headerType=none&fp=qq&type=tcp&sni=play.google.com&sid=443d#A1%20papa%2089694
-vless://Filterboro@hosnetalil.seminar-mrz.ir:13748?encryption=none&fp=firefox&pbk=awJWCmY2Ba9kY_dZj7nSylvtzAP1I5unwa_xp6qrvGA&security=reality&sid=1d9b1242d5&sni=play.google.com&spx=%2FChjfRCXvlsU4biU&type=tcp#A1%20papa%2089695
-vless://Filterboro@selolez.seminar-mrz.ir:41601?authority=&encryption=none&fp=firefox&mode=multi&pbk=awJWCmY2Ba9kY_dZj7nSylvtzAP1I5unwa_xp6qrvGA&security=reality&serviceName=&sid=b3d284&sni=play.google.com&spx=%2FuUYZn3ZuH15uZNd&type=grpc#A1%20papa%2089696
-vless://Filterboro@selolez.seminar-mrz.ir:13748?encryption=none&fp=firefox&pbk=awJWCmY2Ba9kY_dZj7nSylvtzAP1I5unwa_xp6qrvGA&security=reality&sid=86d4&sni=play.google.com&spx=%2FGn9gPGT3hFIQZ0V&type=tcp#A1%20papa%2089697
 vless://Filterboro@hosnetalil.seminar-mrz.ir:41601?authority=&encryption=none&fp=firefox&mode=multi&pbk=awJWCmY2Ba9kY_dZj7nSylvtzAP1I5unwa_xp6qrvGA&security=reality&serviceName=&sid=c6673627&sni=play.google.com&spx=%2FRjv3SBRp9N7E51m&type=grpc#A1%20papa%2089698
 ss://YWVzLTI1Ni1nY206TWpVeVltSTVPV0l6Tm1RMk4yVmlaakJqT1Raall6WTJNRGN5WlRGag@37.32.25.196:9112?prefix=%16%03%01%00%C2%A8%01%01#A1%20papa%2089699
 vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@qq.utiltools.ru:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.ru#A1%20papa%2089700
@@ -998,3 +988,13 @@ ss://YWVzLTI1Ni1nY206OTQ1NzFkNjItYTIzZi0zNjRlLTgwNjUtMmE3NDBiMzQyMjE2@s.8.p.f.r.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXUjVIbzh2VnFuRGFINDlXTGg5OE5j@130.49.189.158:10792#C%20papa%2091658
 vless://db840ee9-a3a3-4f4e-b63a-3779fe25eabe@check09.farsinblog.ir:8443?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=b7b70c104ad267b8#C%20papa%2091659
 vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@p01.parsi.sbs:2086?&type=ws&headerType=none&host=parsi.parsi.sbs&path=%2F#C%20papa%2091661
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.20.67:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#A2%20papa%2091667
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@217.163.76.245:443?security=tls&sni=xing.ylks.xyz&type=ws&path=/#A2%20papa%2091668
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.74.75:80?security=none&type=ws&host=us3.rtacg.com&path=/#A2%20papa%2091669
+vless://c75176b4-b733-451e-bdd6-1df3da357cb8@188.114.97.3:80?path=%2FPROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.ir&type=ws#A2%20papa%2091670
+vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=chrome&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir#A2%20papa%2091671
+vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiQyBwYXBhIDkxNjc5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vmess://eyJ2IjoiMiIsInBzIjoiQyBwYXBhIDkxNjgyIiwiYWRkIjoicXRrZHI4anhlM3dlZnhqbS52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJob3N0IjoicVRLRFI4alhFM3dFRnhKTS52LjNkbnMudmlwIiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJDIHBhcGEgOTE2ODciLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#C%20papa%2091688
+vmess://eyJhZGQiOiI2Ny4yMjAuOTUuMyIsImFpZCI6MCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoxODAwMCwicHMiOiJDIHBhcGEgOTE2OTQiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
