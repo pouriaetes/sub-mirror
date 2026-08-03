@@ -1,13 +1,3 @@
-vless://71f2d337-8720-4cc8-8b0f-a9ab9ce8906d@s8.mtn-cnavippanel.xyz:8090?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#A2%20papa%2092098
-vless://71f2d337-8720-4cc8-8b0f-a9ab9ce8906d@1.1.1.1:80?security=none&type=tcp&headerType=none&path=&host=#A2%20papa%2092099
-vless://5ebd890f-cdf7-4eec-ac48-2576fc745110@s1.pro-vip-cnavippanel.xyz:4568?security=none&type=tcp&headerType=http&path=%2F&host=www.icloud.com#A2%20papa%2092100
-vless://5ebd890f-cdf7-4eec-ac48-2576fc745110@s2.dbpq-cnavippanel.xyz:4568?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#A2%20papa%2092101
-vless://4414cb24-80ca-40dc-a5f8-4f439726e85d@185.185.143.74:443?security=&encryption=none&headerType=&type=tcp#A1%20papa%2092102
-vless://4414cb24-80ca-40dc-a5f8-4f439726e85d@185.185.143.74:898?security=&encryption=none&headerType=&type=tcp#A1%20papa%2092103
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.147.218:22222?encryption=none&security=none&type=tcp#A1%20papa%2092104
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#C%20papa%2092105
-vmess://eyJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIyMzI0IiwicHMiOiJDIHBhcGEgOTIxMTAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNzEiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
-vless://11e57eeb-ffdf-4983-a9fa-ad352dea7253@45.206.5.122:443?security=reality&encryption=none&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=500aec9e9e5e2212#C%20papa%2092114
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#C%20papa%2092115
 ss://YWVzLTI1Ni1nY206ZmJhZjMzYmNmZmU1M2NmOQ@195.58.48.19:20910#C%20papa%2092116
 vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.139.251.189:443?encryption=none&type=tcp&security=reality&headerType=none&sni=apple.com&fp=qq&insecure=0&allowInsecure=0&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&flow=xtls-rprx-vision#C%20papa%2092117
@@ -998,3 +988,13 @@ vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.156:443?security=reality
 vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiQyBwYXBhIDk0MTEyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA@68.168.222.210:1234#C%20papa%2094113
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#C%20papa%2094114
+vless://43fb54a1-33cf-4cbd-85c9-a7d72b7b4879@46.225.220.111:1234?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#A2%20papa%2094116
+vless://43fb54a1-33cf-4cbd-85c9-a7d72b7b4879@62.238.55.96:1234?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#A2%20papa%2094117
+vless://43fb54a1-33cf-4cbd-85c9-a7d72b7b4879@167.233.233.187:1234?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#A2%20papa%2094118
+vless://43fb54a1-33cf-4cbd-85c9-a7d72b7b4879@168.119.156.100:1234?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#A2%20papa%2094119
+vless://43fb54a1-33cf-4cbd-85c9-a7d72b7b4879@128.140.114.57:1234?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#A2%20papa%2094120
+vless://413a66e9-b05b-4ae6-a9eb-6d28204a28f4@138.68.53.88:443?security=&encryption=none&headerType=none&type=tcp#A1%20papa%2094121
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@46.29.234.210:443?encryption=none&security=reality&type=grpc&sni=www.tradingview.com&fp=safari&pbk=II9Tn-HPL7xcENiybDfQ_bSw31rSzQbIGYn-hCxdb2w&sid=ccda00cc&serviceName=grpc#C%20papa%2094129
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@45.151.62.156:443?security=reality&type=grpc&fp=firefox&sni=dogs.abvphelp.cc&pbk=aBs0x09cXtjTpsrGb21cJsEmDsaCaC1RPeutNu404V0&serviceName=grpc&sid=6fa13cdb#C%20papa%2094131
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.54.9.181:3306#C%20papa%2094140
+vmess://eyJ2IjoiMiIsInBzIjoiQyBwYXBhIDk0MTQxIiwiYWRkIjoiZWpvbXN4cHRwMTlhcHlnbC52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJob3N0IjoiZWpPTXN4UHRQMTlBUHlHTC52LjNkbnMudmlwIiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
