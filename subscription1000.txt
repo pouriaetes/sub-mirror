@@ -1,12 +1,3 @@
-vless://b6f3b292-00c9-430e-bc4c-b1294bd895c0@185.126.67.76:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn-de-4.ai-apiroute.cc&fp=firefox&pbk=kaw2U8L2ZTcgo56qUBONfylYJpHprI_CgZfv1I4q2Sc&sid=b512d49930874a31&type=tcp&headerType=none#C%20papa%2095276
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#C%20papa%2095278
-vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuYW1lIjoiVFcg8J+HufCfh7wgfCBAUmF5ZGlrYWx4IHwgMzgxNyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjozNTAzNCwicHMiOiJDIHBhcGEgOTUyNzkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODc4OTk4OC04ODdlLTRlNDEtODNjZC0yN2JiZmI3OTk5YWQ@xunlinknode.csdjhajkshdjkas.com:40008#C%20papa%2095282
-vless://219f9fec-8983-4f6f-af8c-31bd0c6dbf19@45.155.52.231:443?encryption=none&fp=firefox&pbk=6p0aVCkOgd-xaxqSMANYABL6O4Tdbftnxjiy5qcmISQ&security=reality&sid=0b&sni=ru2.skydrgn-online.online&type=tcp#C%20papa%2095284
-vmess://eyJhZGQiOiIxNzIuNjcuMjE5LjE5NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYWRlbmMzNnYueHRvb2x0ZWNoLmNmZCIsImlkIjoiYjMyMWZkNWQtZTZlYy00MjkzLWE2NDQtMTY0ZTM4ODVmNTJlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJzY3kiOiJhdXRvIiwic25pIjoiYWRlbmMzNnYueHRvb2x0ZWNoLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiQTIgcGFwYSA5NTI4OCJ9
-vless://2cb84c10-185f-40c2-896e-070109215fa5@marzban-node-production-832c.up.railway.app:443?security=tls&type=ws&headerType=&path=%2Fvless&host=marzban-node-production-832c.up.railway.app&sni=marzban-node-production-832c.up.railway.app&fp=ios&alpn=h2#A2%20papa%2095289
-vless://29ca503d-e6b8-4509-b666-48133f450857@millionaire.levikogjgfdd.ir:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#A2%20papa%2095290
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.214.172:62145?&type=tcp&headerType=none&path=%2F#A1%20papa%2095292
 vless://f82944fe-9863-494a-9a2d-0f3120a774c6@82.22.53.30:448?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.googletagmanager.com&fp=chrome&pbk=0B7XMJC-mBqvUkf_on0wPZeW1iVmZIbEPVyvz-V_jRI&sid=60d7a9bbacadc0fb&type=tcp&headerType=none#C%20papa%2095296
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo37.fordnsdirect.shop:8880?encryption=none&security=none&type=grpc#C%20papa%2095298
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#A2%20papa%2095309
@@ -998,3 +989,12 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?type=tcp&securi
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.53.27:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#C%20papa%2097349
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@86.107.197.239:443?security=tls&type=ws&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#C%20papa%2097352
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca8.directdnsai.shop:8880?security=&encryption=none&type=grpc#C%20papa%2097354
+vless://323ab367-01ee-4f0f-b460-a915c411210a@134.209.240.32:44791?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#A2%20papa%2097356
+vless://323ab367-01ee-4f0f-b460-a915c411210a@159.65.92.41:44791?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#A2%20papa%2097357
+vless://5930c920-c5b4-4211-a861-fdb3c4c65e04@104.248.136.146:48654?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#A2%20papa%2097358
+vless://323ab367-01ee-4f0f-b460-a915c411210a@161.35.74.77:44791?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#A2%20papa%2097359
+vless://5930c920-c5b4-4211-a861-fdb3c4c65e04@165.22.79.95:48654?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#A2%20papa%2097360
+vless://4e0f4e59-3613-4f0c-b824-7348413d20e6@premium-us-ca-01-gthost.efgwf.online:8080?type=ws&host=premium-us-ca-01-gthost.efgwf.online&path=/ws-6Tta3kYF#C%20papa%2097364
+vless://fc3f9347-7542-483c-833c-cd561384783d@31.169.127.168:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=chrome&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#C%20papa%2097375
+vless://fb978279-0a28-4045-8258-e9ab97deaf2b@188.164.248.117:2087?sni=3da0360c.myblog-2hd.pages.dev&type=ws&host=3da0360c.myblog-2hd.pages.dev&path=/security=tls#C%20papa%2097378
+vless://7b102311-43fd-4e8f-877e-8090623c101d@104.18.33.37:443?&security=tls&fp=firefox&sni=vp33.cc.cd&type=ws&headerType=none&host=vp33.cc.cd&path=%2F#C%20papa%2097381
