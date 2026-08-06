@@ -1,10 +1,3 @@
-vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@64.49.38.6:993?security=reality&type=tcp&packetEncoding=none&sni=dl.google.com&fp=firefox&flow=xtls-rprx-vision&pbk=92KJ-ibs1qTy8nODGrHTW8T0b_trG7McLYv8My9o2EE#C%20papa%2097345
-vmess://eyJ2IjoiMiIsInBzIjoiQyBwYXBhIDk3MzQ2IiwiYWRkIjoibTAxYzdiMnoyNmR0cWdlZS52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJob3N0IjoiTTAxYzdCMnoyNkR0UUdFZS52LjNkbnMudmlwIiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&sni=fuck.rkn#C%20papa%2097348
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.53.27:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#C%20papa%2097349
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@86.107.197.239:443?security=tls&type=ws&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#C%20papa%2097352
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca8.directdnsai.shop:8880?security=&encryption=none&type=grpc#C%20papa%2097354
-vless://323ab367-01ee-4f0f-b460-a915c411210a@134.209.240.32:44791?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#A2%20papa%2097356
 vless://323ab367-01ee-4f0f-b460-a915c411210a@159.65.92.41:44791?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#A2%20papa%2097357
 vless://5930c920-c5b4-4211-a861-fdb3c4c65e04@104.248.136.146:48654?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#A2%20papa%2097358
 vless://323ab367-01ee-4f0f-b460-a915c411210a@161.35.74.77:44791?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#A2%20papa%2097359
@@ -998,3 +991,10 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.27.212:80?security=none&type
 trojan://ND91608427@intimate-moray.rooster465.autos:443?allowInsecure=1&sni=intimate-moray.rooster465.autos#C%20papa%2099398
 vless://4a1441b0-7bc8-4906-85cf-6b59c256b480@162.159.18.122:443?encryption=none&fp=chrome&host=edt2.yfqh08811.ccwu.cc&path=%2Ffp%3Dchrome&security=tls&sni=edt2.yfqh08811.ccwu.cc&type=ws#C%20papa%2099402
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001286ek2.cybervena.com:50099#C%20papa%2099407
+vless://99c2034b-f7e7-42f4-b55d-faf4a7ca6d7a@46.29.34.13:2525?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=panpro.1tools.ir#A2%20papa%2099410
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@152.67.55.163:59319#A2%20papa%2099411
+vmess://eyJhZGQiOiJueWNxZzE5emt3YWNwbTFiLnYuM2Rucy52aXAiLCJhaWQiOjAsImhvc3QiOiJOWWNRZzE5emt3YUNQTTFCLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6NDQzLCJwcyI6IkMgcGFwYSA5OTQxOCIsInNlY3VyaXR5IjoiYXV0byIsInNuaSI6Ik5ZY1FnMTl6a3dhQ1BNMUIudi4zZG5zLnZpcCIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.126.206.117:443?encryption=none&type=tcp&security=reality&headerType=none&sni=apple.com&fp=qq&insecure=0&allowInsecure=0&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&flow=xtls-rprx-vision#C%20papa%2099419
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.72.20:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#C%20papa%2099425
+trojan://2eutknankxtbgkwcajzt@193.148.19.213:52794?security=tls&sni=193.148.19.213#C%20papa%2099426
+vmess://eyJ2IjoiMiIsInBzIjoiQyBwYXBhIDk5NDI4IiwiYWRkIjoibWg3cjVhcmRsMHo1anRneS52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJob3N0IjoibWg3UjVBcmRMMHo1alRHWS52LjNkbnMudmlwIiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
