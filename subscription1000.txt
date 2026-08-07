@@ -1,12 +1,3 @@
-vless://564082ff-cf3c-48db-9e10-8ad2312847b4@144.31.226.177:443?security=reality&encryption=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=node15.mxvpn.dev&sid=bbc68cec8bb8d2e3#A1%20papa%2097760
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTorSVYyam1Nd0Y2U3ZtS3Z5cnBnb2s1SjlwQUNBdlJrTWIvYlpTdTdHbCtnPQ@e1.cover20.ir:51570#A1%20papa%2097761
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.166.237:62145?security=&encryption=none&headerType=none&type=tcp#A1%20papa%2097762
-vless://51406c9b-9109-44e3-8d93-fd836d87b336@45.67.59.118:2087?security=none&encryption=none&headerType=none&type=tcp#A1%20papa%2097763
-vless://878dd962-027b-4bd3-a1f8-66be68a03c4d@deepl.com:8880?path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=&encryption=none&host=young-wind-3c58.240-2ce.workers.dev&type=ws#A1%20papa%2097764
-vless://80f083d3-8348-4514-b075-62f303b7fd86@themeforest.net:8880?path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=&encryption=none&host=young-term-5783.284.workers.dev&type=ws#A1%20papa%2097765
-vless://867bac5c-b78e-4f5c-ac03-4ec4b18141aa@book2.korzelo.ir:2083?path=%2F&security=&encryption=none&host=play.google.com&type=ws#A1%20papa%2097766
-vless://2af30aff-de7a-44b9-b929-158081b4f3e6@45.144.174.171:40149?security=reality&encryption=none&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.org#A1%20papa%2097767
-vless://b93efa30-e2c5-401c-9ec7-22e30266cc60@157.85.102.28:1083?security=&encryption=none&headerType=none&type=tcp#A1%20papa%2097768
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFQkRSbzlUSHg0Q3FpRlU3aDVnZm92NzZvTnd6WlVSQWgwWndiV2pCS2RkdFVodno@103.120.178.193:31348#C%20papa%2097770
 vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&sid=68a8&sni=deepl.com#C%20papa%2097771
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.227.134:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#C%20papa%2097773
@@ -998,3 +989,12 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.72.41:443?path=/&security=tl
 vless://b3c0e083-7608-48b1-84ac-efd75522b745@dyar3.javanrooo.ir:2087?type=ws&host=play.google.com&path=%2F&security=none&encryption=none#C%20papa%2099872
 vmess://eyJ2IjoiMiIsInBzIjoiQyBwYXBhIDk5ODczIiwiYWRkIjoidTJmcnhqMGcxM3ZkaTB3by52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJob3N0IjoiVTJGUnhqMEcxM3ZESTBXby52LjNkbnMudmlwIiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.38.47:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#C%20papa%2099874
+vless://11f62a8b-762d-4595-aa54-75ecb6977400@172.66.213.38:2086?path=%2Foopksl%3F&security=none&encryption=none&host=cdn.jorzel.ir&type=httpupgrade#A2%20papa%2099879
+vless://11f62a8b-762d-4595-aa54-75ecb6977400@167.68.42.154:2086?path=%2Foopksl%3F&security=none&encryption=none&host=cdn.jorzel.ir&type=httpupgrade#A2%20papa%2099880
+vmess://eyJhZGQiOiIxNzYuNjUuMTUxLjg5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImlkIjoiMGMzMWRlNTAtYWMxNC00M2JkLTg5MDctNTdkZmFkZjI0MjAxIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicG9ydCI6IjMwMDAwIiwicHMiOiJBMiBwYXBhIDk5ODgxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://287f29b9-97c5-472a-b2a5-e2e5e418478f@158.94.216.230:20000?security=none&headerType=none&encryption=none&type=tcp#A2%20papa%2099882
+vless://01a95af3-a2f6-453e-9f88-b2fc011627cc@92.114.24.95:43630?security=&encryption=none&headerType=none&type=tcp#A1%20papa%2099884
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.187.58:62145?#A1%20papa%2099885
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.211.212:62145?#A1%20papa%2099886
+vless://fcf3f42a-1b88-e1b1-968f-c5ad00000000@104.21.38.57:80?type=ws&host=delicate-cell-a4e1.ir-comx1.workers.dev&path=/sync#C%20papa%2099889
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#C%20papa%2099898
