@@ -1,13 +1,3 @@
-ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ@195.133.5.207:20916#A1%20papa%2097999
-vless://ae5d1cb7-8e6f-4eae-b207-5a8bad3e6976@45.38.19.185:30479?encryption=none&security=none&type=tcp#A1%20papa%2098001
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@144.22.183.254:59319#A1%20papa%2098002
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.164.131:62145?&type=tcp&headerType=none&path=%2F#A1%20papa%2098003
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.186.93:62145?&type=tcp&headerType=none&path=%2F#A1%20papa%2098005
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@163.176.198.213:59319#A1%20papa%2098007
-vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?&type=tcp&headerType=none&path=%2F#A1%20papa%2098008
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.186.27:62145?&type=tcp&headerType=none&path=%2F#A1%20papa%2098009
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.31:62145?&type=tcp&headerType=none&path=%2F#A1%20papa%2098010
-vless://8336c1d5-731e-495a-8ef6-19a452bb284a@tr1.maktabmotahari.ir:57367?security=reality&encryption=none&pbk=DN5-6pEo8XE3S7MzxzNFVCPPRk87KirDt8yUybpdmWE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=9fddc2f52909d4d3#A1%20papa%2098011
 vless://a1922416-77a9-46cc-8a0c-6ab835ed4672@5.175.140.119:19529?security=reality&encryption=none&pbk=1W7DkdHXDJy5AST-Phk5n3YV-oWuX2tkC6EEqlHJ1A4&headerType=none&fp=chrome&spx=%2F7eYrOXYUOxgvZ1j&type=tcp&sni=www.samsung.com&sid=7b87b831d9#A1%20papa%2098012
 vless://631ee34f-4faf-4ad7-b49d-e6f50403cf0e@185.215.184.31:8443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#A1%20papa%2098013
 vmess://eyJhZGQiOiIxMDcuMTcyLjc1LjE0MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlMDJjNjdhOC1kNzY5LTRkNzMtODMzYS1hYjZhY2RiODZlNmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwMDg2IiwicHMiOiJDIHBhcGEgOTgwMTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
@@ -998,3 +988,13 @@ vless://d9aa9ea3-9388-483f-a58d-a754f33ec505@54.37.6.119:2053?encryption=none&fp
 trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?security=tls&type=ws&sni=space.byu.id.yxls.eu.cc&path=/in-pdr&host=space.byu.id.yxls.eu.cc#C%20papa%20100145
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@108.162.198.5:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#C%20papa%20100146
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&fp=firefox&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#C%20papa%20100148
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.11.81:80?security=none&type=ws&host=us3.rtacg.com&path=/#A2%20papa%20100156
+vless://359b9ad3-0009-4655-8872-d0ab566751d3@45.81.58.159:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=e832b8629fff3263.hozheen.ir#A2%20papa%20100157
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.89.230:80?security=none&type=ws&host=us3.rtacg.com&path=/#A2%20papa%20100158
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.166.136:80?security=none&type=ws&host=us3.rtacg.com&path=/#A2%20papa%20100159
+vless://3fa4c645-f6a7-4a02-85ee-7289530a6d1e@173.245.49.196:2096?security=tls&sni=de.zafarinoco.ir&type=ws&host=de.zafarinoco.ir&path=/&alpn=http/1.1#A2%20papa%20100160
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#C%20papa%20100170
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#C%20papa%20100172
+vmess://eyJhZGQiOiI1LjE4OC4xOTAuMjUyIiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmFtZSI6IlRSIPCfh7nwn4e3IHwgQFJheWRpa2FseCB8IDMzNjgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOjIyMzI0LCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjpudWxsLCJ0bHMiOiIiLCJ0eXBlIjpudWxsLCJ2IjpudWxsLCJwcyI6IkMgcGFwYSAxMDAxNzMifQ==
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.fbi.gov:2095?&type=ws&headerType=none&host=fuckingfangbinxing.pusytroller.cf&path=%2F#C%20papa%20100175
+vmess://eyJ2IjoiMiIsInBzIjoiQyBwYXBhIDEwMDE4MiIsImFkZCI6IjE1OC41MS4xMjEuNjMiLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJzZXJpYnVzLm9yZyIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIiwic25pIjoic2VyaWJ1cy5vcmciLCJ0ZXN0X25hbWUiOiIyNiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
