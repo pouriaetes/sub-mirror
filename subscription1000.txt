@@ -1,11 +1,3 @@
-trojan://humanity@104.18.8.83:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#A2%20papa%2098986
-vless://085350bf-3af2-a06b-3006-9d7ea314475e@69.46.46.1:443?path=%2Fws%2F085350bf-3af2-a06b-3006-9d7ea314475e&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-2066.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rvg-production-2066.up.railway.app#A2%20papa%2098987
-trojan://humanity@104.18.152.225:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#A2%20papa%2098988
-trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?path=%2Fassignment&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#A2%20papa%2098989
-vless://42e2dd45-2323-4929-9ab7-98f43591416e@209.38.230.60:2087?path=/&security=tls&encryption=none&insecure=0&host=yykir7al.ndaiwcu.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=yykir7al.ndaiwcu.workers.dev#C%20papa%2098993
-trojan://ND91608427@adjusted-labrador.rooster465.autos:443?allowInsecure=1&sni=adjusted-labrador.rooster465.autos#C%20papa%2098998
-trojan://ND91608427@prompt-duckling.rooster465.autos:443?allowInsecure=1&sni=prompt-duckling.rooster465.autos#C%20papa%2098999
-vmess://eyJ2IjoiMiIsInBzIjoiQyBwYXBhIDk5MDAwIiwiYWRkIjoibXRja3VuZGlnZXB3dTN1cC52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJob3N0IjoibVRDS1VORGlHZVB3VTN1UC52LjNkbnMudmlwIiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 trojan://ND91608427@tough-robin.rooster465.autos:443?allowInsecure=1&sni=tough-robin.rooster465.autos#C%20papa%2099006
 trojan://ND91608427@definite-sturgeon.rooster465.autos:443?allowInsecure=1&sni=definite-sturgeon.rooster465.autos#C%20papa%2099008
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@92.112.126.90:443#A2%20papa%2099013
@@ -998,3 +990,11 @@ vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjI1MCIsImFpZCI6IjAiLCJpZCI6ImQxM2ZjMmY1LTNlMDUt
 vmess://eyJhZGQiOiJkcmJrZzE2ZWdmM2Z6bG0zLnYuM2Rucy52aXAiLCJhaWQiOjAsImhvc3QiOiJEckJLZzE2ZUdmM0ZabE0zLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6NDQzLCJwcyI6IkMgcGFwYSAxMDExODYiLCJzZWN1cml0eSI6ImF1dG8iLCJzbmkiOiJEckJLZzE2ZUdmM0ZabE0zLnYuM2Rucy52aXAiLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vless://711c018e-2692-4aa8-93f3-544d83fcd16c@jdwadgw.cvewfjg.shop:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7a76f3c4b9dd&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs#C%20papa%20101189
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:12972?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#C%20papa%20101190
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.154.129:13868?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=YxGdcVKnOjKUtaG-E68lzI_rd9DI5RvsbLY0qyMFX2w&sid=e852dc&sni=wp.pl#A2%20papa%20101192
+trojan://ND91608427@natural-collie.rooster465.autos:443?sni=natural-collie.rooster465.autos&fp=chrome&type=tcp&path=%2f#A2%20papa%20101193
+vless://42c3faad-860a-4314-a7d6-d4ebbd25d1e0@3x-ui-production-bd0f.up.railway.app:443?path=%2Fin6&security=tls&encryption=none&host=3x-ui-production-bd0f.up.railway.app&type=httpupgrade&sni=3x-ui-production-bd0f.up.railway.app#A2%20papa%20101195
+vless://45459159-1536-4e98-95b3-aa1dbbfb4172@45.195.111.15:443?security=reality&sni=storage.yandex.net&alpn=http%2F1.1&fp=qq&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#C%20papa%20101197
+vless://e7299042-7d8f-440f-8368-2516b0e69341@tn.tmn141246.ru:2200?encryption=none&type=ws&path=%2Fv1&host=rzd.ru&security=none#C%20papa%20101204
+vless://23a9b46e-9443-4268-81c5-399929919ab0@155.103.69.195:48711?encryption=none&type=tcp&headerType=http&path=%2F&host=snapp.ir#C%20papa%20101208
+vmess://eyJ2IjoiMiIsInBzIjoiQyBwYXBhIDEwMTIwOSIsImFkZCI6IjYxLjI0NS4xMS42MCIsInBvcnQiOiI4MCIsImlkIjoiYTNlM2E3MTAtNzlmOC00YWUwLWI4M2MtNjA3YWFiNDBkMTk3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiIiwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI4MCIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://e27dce75-b33b-49b6-afb7-17e29ce67bb1@92.63.99.228:7899?type=tcp&security=reality&sni=tradingview.com&fp=firefox&pbk=YXVnk7FdM6IXOlFqisWurmtfmoftXLqqsrJ-JqqP6Rc&flow=xtls-rprx-vision#C%20papa%20101212
