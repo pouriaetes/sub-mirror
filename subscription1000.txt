@@ -1,10 +1,3 @@
-trojan://telegram-id-privatevpns@13.37.48.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#A2%20papa%2097692
-trojan://telegram-id-directvpn@52.57.182.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#A2%20papa%2097693
-ss://YWVzLTI1Ni1nY206YjUzNzIyYjQ2MmFhZDc2NQ%3D%3D@166.88.130.210:7011#A2%20papa%2097695
-vless://14be84e2-8b22-42c0-a1ba-3535fc8e9257@179.255.148.66:47588?security=reality&encryption=none&pbk=ViI3P61PX_g1Qw5isp6C1ZaGqKQO471V9cCEJwHFpE4&headerType=&fp=chrome&type=tcp&sni=yellowpages.amazon.com&sid=8b2730e4eb1313#A1%20papa%2097696
-vless://d0961a50-1306-49a6-b71e-6f0dc183ffb7@200.165.226.216:1293?security=&encryption=none&headerType=&type=tcp#A1%20papa%2097697
-vless://d0961a50-1306-49a6-b71e-6f0dc183ffb7@201.34.135.13:1293?security=&encryption=none&headerType=&type=tcp#A1%20papa%2097698
-vless://6d3f20bc-0993-422e-b0cd-be6bcfc645be@178.236.255.234:654?security=&encryption=none&headerType=&type=tcp#A1%20papa%2097699
 vless://8097ce5a-17ed-4f21-b39c-d9975130fe94@91.228.227.231:54034?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=play.google.com&type=ws#A1%20papa%2097700
 vless://cf39cbf2-8926-43b5-ba3e-45b975019094@skk.moe:8880?path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&encryption=none&host=snowy-feather-39d3.428.workers.dev&type=ws#A1%20papa%2097701
 vless://bd3eb105-b048-47fa-9a1d-63a66f9830a2@log.bpminecraft.com:8880?path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&alpn=http%2F1.1&encryption=none&host=misty-flower-4d15.372-912.workers.dev&fp=chrome&type=ws#A1%20papa%2097702
@@ -998,3 +991,10 @@ vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@de.vrsvpn.com:443?security=reality&
 vless://c124a209-d949-4951-8234-e2d918b3e6c0@paris.vypnet.su:443?security=reality&encryption=none&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=p.keshevoz.ru#C%20papa%2099748
 vless://7b102311-43fd-4e8f-877e-8090623c101d@198.41.208.53:2083?security=tls&type=ws&path=/&host=vp27.cc.cd&packetEncoding=none&sni=vp27.cc.cd&fp=chrome#C%20papa%2099754
 vless://fb978279-0a28-4045-8258-e9ab97deaf2b@188.164.248.117:2087?sni=3da0360c.myblog-2hd.pages.dev&type=ws&host=3da0360c.myblog-2hd.pages.dev&path=/security=tls#C%20papa%2099759
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#C%20papa%2099765
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#C%20papa%2099766
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#C%20papa%2099771
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#C%20papa%2099773
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#C%20papa%2099774
+vmess://eyJhZGQiOiIzOC4xMTAuMS4yNDYiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTgwMDAiLCJwcyI6IkMgcGFwYSA5OTc3NyIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiQyBwYXBhIDk5NzgxIiwiYWRkIjoiMTI5LjE0Ni4xNDMuODAiLCJwb3J0Ijo0ODExMSwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6ImQ0NjAzY2MyLWUwZWUtNDY1MS04M2Y1LTFkYjViNzE2ODE3NyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
