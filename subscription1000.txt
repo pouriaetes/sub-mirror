@@ -1,12 +1,3 @@
-vmess://eyJhZGQiOiI1LjE4OC4xOTAuMjUyIiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmFtZSI6IlRSIPCfh7nwn4e3IHwgQFJheWRpa2FseCB8IDMzNjgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOjIyMzI0LCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjpudWxsLCJ0bHMiOiIiLCJ0eXBlIjpudWxsLCJ2IjpudWxsLCJwcyI6IkMgcGFwYSAxMDI2MDQifQ==
-vless://df301b32-1152-4526-9a63-beedd93d3156@104.16.27.134:80?security=none&type=ws&path=/&host=vl.dalazhi.cloudns.biz&ed=2048&packetEncoding=xudp&encryption=none#C%20papa%20102607
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#C%20papa%20102614
-vmess://eyJhZGQiOiIxMDQuMjEuMTUuMzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCJpZCI6ImVkYmIxMDU5LTE2MzMtNDI3MS1iNjZlLWVkNGZiYTQ3YTFiZiIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6ImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IkEyIHBhcGEgMTAyNjE1In0=
-vmess://eyJhZGQiOiIxNzIuNjcuMTYxLjc3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwiaWQiOiJlZGJiMTA1OS0xNjMzLTQyNzEtYjY2ZS1lZDRmYmE0N2ExYmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJBMiBwYXBhIDEwMjYxNiJ9
-vless://9a872d85-a934-4614-bfdf-6be30f55dbda@nozomi.proxy.rlwy.net:24703?mode=auto&path=%2Fassets&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%225-70%22%7D&pbk=d-Ra_1uPf5oLwePV1GutozqIrbAD4-B8dFfI1btDzAk&fp=chrome&spx=%2F835625b23cab48a&type=xhttp&sni=www.samsung.com&sid=22#A2%20papa%20102617
-vless://6d3b8cac-9d1c-4219-b282-581b76341060@167.99.84.136:22298?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#A2%20papa%20102618
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#C%20papa%20102619
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#C%20papa%20102622
 vless://0bcec952-a452-43ed-9468-4547b9f5dfc4@70.39.197.9:59216?&type=tcp&headerType=none&path=%2F#C%20papa%20102625
 vless://1f29762d-3f23-4207-9e39-f774de5d49ba@95.85.228.161:8443?encryption=none&security=none&type=grpc&authority=&serviceName=grpc&mode=gun#C%20papa%20102628
 vmess://eyJ2IjoiMiIsInBzIjoiQyBwYXBhIDEwMjYzMSIsImFkZCI6InVzLmtseGlhb2dvdS5jb20iLCJwb3J0IjoiNDE5NjMiLCJ0eXBlIjoibm9uZSIsImlkIjoiN2E0ODMwZGYtNTM5MS00NzQ4LWIxYzctYjY4NTdhZDA0YWNiIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8xMjQiLCJob3N0IjoidXMua2x4aWFvZ291LmNvbSIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
@@ -998,3 +989,12 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#C%20papa%20104645
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.29:443#C%20papa%20104648
 ss://YWVzLTI1Ni1nY206OWYzZDFhNmQzMTQ2ODU5OQ@195.133.23.200:1291#C%20papa%20104651
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#C%20papa%20104652
+vless://722c66e2-bce4-46d2-a2f9-cb04e3bed034@172.67.49.168:443?security=tls&sni=ANa-4bA.PaGeS.DEv&type=ws&host=aNa-4ba.PaGEs.DEv&path=%2Fahq33JSaT8SLw2IF%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#A2%20papa%20104654
+trojan://telegram-id-directvpn@18.220.25.23:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#A2%20papa%20104655
+vless://4da72a60-61b9-4571-a054-1bba24bf6728@151.101.110.219:443?path=%2F&security=tls&encryption=none&insecure=1&host=nesfeshzksab.global.ssl.fastly.neT.&type=ws&allowInsecure=1&sni=speedtest.net#A2%20papa%20104656
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#A2%20papa%20104657
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.185.140:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#A2%20papa%20104658
+vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@89.106.86.84:443?security=reality&encryption=none&pbk=qW8UIkS9M8F1BjbAa6Ih1kNL5hkTRDp_DZ5TEpyyIFs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=plucky-lunar.cdn.cachefleet.com#A1%20papa%20104659
+vmess://eyJ2IjoiMiIsInBzIjoiQyBwYXBhIDEwNDY2NSIsImFkZCI6IjkzdWNybjRpMHBmZnVhYmsudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwiaG9zdCI6IjkzdWNybjRpMFBmZlVBYmsudi4zZG5zLnZpcCIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@159.195.14.140:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ai.sellflow.org#C%20papa%20104667
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.60.167:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#C%20papa%20104673
