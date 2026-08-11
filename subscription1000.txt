@@ -1,8 +1,3 @@
-vless://2efeba50-78fe-4729-9821-1fb9819ed9e8@172.66.132.196:8880?path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&encryption=none&host=dark-dew-c3ed.48-97c.workers.dev&type=ws#A1%20papa%20104833
-vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.99:443?flow=xtls-rprx-vision&fp=firefox&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&security=reality&sni=luminous-vortex.cdn.cachefleet.com&type=tcp#A1%20papa%20104834
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.126.61.199:22224?encryption=none&security=none&type=tcp#A1%20papa%20104835
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.126.61.199:22223?encryption=none&security=none&type=tcp#A1%20papa%20104836
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.126.61.199:22222?encryption=none&security=none&type=tcp#A1%20papa%20104837
 vmess://eyJhZGQiOiIxNjYuODguMzUuMTI4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImFjM2U3MDVlLTM3MTMtNDBiMC1jMGZlLTAzNDJjMzI4ZWVkMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9hYzNlNzA1ZSIsInBvcnQiOiIyNzUzMyIsInBzIjoiQTEgcGFwYSAxMDQ4MzgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#C%20papa%20104840
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#C%20papa%20104844
@@ -998,3 +993,8 @@ vless://423caebf-ce56-4e26-a792-7a6becb17e9b@45.151.102.99:6443?type=grpc&securi
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.4.221:8443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#C%20papa%20106914
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@130.17.2.67:4100?encryption=none&type=ws&path=/v1&host=live.ok.ru#C%20papa%20106918
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#C%20papa%20106919
+vless://d51ed55c-d6dd-400b-aaf6-017c33969bfe@47.89.186.170:55861?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=t2ndf6SeVxinFCo5bcemnW_ZZhAtmHWiAkllks5qPWs&sid=7551ed1b&sni=www.intel.com#C%20papa%20106929
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@156.244.8.155:5004#C%20papa%20106931
+vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJDIHBhcGEgMTA2OTM0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@adf.ly:443?security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.parvin.dpdns.org&encryption=none#C%20papa%20106938
+vless://b1b3e430-ff52-44b8-b95d-27fa580fbc4f@147.45.48.139:443?encryption=none&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#C%20papa%20106948
