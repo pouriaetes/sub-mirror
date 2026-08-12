@@ -1,6 +1,3 @@
-vless://0bcec952-a452-43ed-9468-4547b9f5dfc4@70.39.197.9:59216?&type=tcp&headerType=none&path=%2F#C%20papa%20104953
-trojan://Mitivpn@151.101.110.219:443?path=%2Fde&security=tls&alpn=http%2F1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#A2%20papa%20104955
-vless://fc76dec6-5479-45fa-bba2-ff0a96b1d551@151.101.35.82:80?path=%2F&security=&encryption=none&host=silvergermany.global.ssl.fastly.net&type=ws#A2%20papa%20104956
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.173:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#A2%20papa%20104957
 vless://fc76dec6-5479-45fa-bba2-ff0a96b1d551@P.FARS-REMEN.IR:12621?security=&encryption=mlkem768x25519plus.native.0rtt.NFqkiSrT9wDpP5PmpDRXGWAo-lyecauWo-esMymewXc&host=play.google.com&headerType=http&type=tcp#A2%20papa%20104958
 vmess://eyJhZGQiOiIxNzIuNjYuNDQuOTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IlBvbDEubE9vbE9vbG9PbE9vLkNPTS4iLCJpZCI6IjczMTA2NzM5LThiZmItNGY1OS04ZDk1LTA4NmVkMjA3Y2M0ZiIsImluc2VjdXJlIjoiMCIsIm5ldCI6Imh0dHB1cGdyYWRlIiwicGF0aCI6Ii9lZD0/MjA0OCIsInBvcnQiOiIyMDUyIiwicHMiOiJBMiBwYXBhIDEwNDk1OSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
@@ -998,3 +995,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiQyBwYXBhIDEwNzEwMiIsImFkZCI6IjM4LjkxLjEwNy40OSIsInBv
 vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@152.53.114.186:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=UO3EObgU3xUrhIGEE0gfCn5ZOz8YxNcwwW6ZaYzD3SA&security=reality&sid=4e9b0c2d1a3f5768&sni=as.tunnelx.space&type=tcp#C%20papa%20107106
 vless://14f19724-de91-4285-a633-aa8e2caaf812@46.246.92.109:443?security=reality&encryption=none&pbk=JwL5KoiWkCJI2vMJxyTEplfv-zBAtwxOH8SMbw6QHzY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=site.rumedia-cdn.com&sid=cd40c992fe4b10c2#C%20papa%20107107
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.228:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=firefox&echfq=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&allowinsecure=0&type=tcp&headerType=none#C%20papa%20107108
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.32:443#C%20papa%20107118
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#C%20papa%20107120
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#C%20papa%20107130
