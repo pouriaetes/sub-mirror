@@ -1,12 +1,3 @@
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.213.89.22:443?insecure=1&sni=vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#A2%20papa%20105622
-vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.217:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=&type=tcp&flow=xtls-rprx-vision&sni=kind-wolf.cdn.cachefleet.com#A1%20papa%20105623
-vless://644d7311-8b06-4cfc-89bc-3c83898f55b5@140.233.177.21:38134?security=none&encryption=none&headerType=none&type=tcp#A1%20papa%20105624
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.79.105:22222?security=none&encryption=none&headerType=none&type=tcp#A1%20papa%20105625
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.79.105:22224?security=none&encryption=none&headerType=none&type=tcp#A1%20papa%20105626
-vless://83cfaa27-1c29-4cfe-8953-0e18a03cc7ab@91.99.83.31:443?security=reality&encryption=none&pbk=ihcQMKuYk4_1VZlgvK8RDUKgwT-rXgo2BC6vVM972zI&headerType=none&fp=chrome&spx=%2F1inVZX7kBPRAN91&type=tcp&flow=xtls-rprx-vision&sni=shop-us-en.amd.com&sid=35#A1%20papa%20105627
-vless://1369d309-51db-4822-8ba0-229a015fc53c@46.8.224.46:37202?security=reality&encryption=none&pbk=qTJhC_rpwRUQSRFiGxUifpXAnfL4W-EuoBauKKIiBQY&headerType=none&fp=chrome&spx=%2Fc9fde6171a440fc&type=tcp&sni=support-shield.nvidia.pl&sid=fe25b809a631bacb#A1%20papa%20105628
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@185.196.61.82:8080#C%20papa%20105631
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#C%20papa%20105633
 vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiQyBwYXBhIDEwNTYzNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@194.150.166.12:443?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp&fp=firefox&pbk=b75SrHI--As9QxOVfRIPkGmGfXjs53CGAjbws2K99Rs&sni=www.avito.ru#C%20papa%20105636
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@45.130.125.207:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#C%20papa%20105642
@@ -998,3 +989,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSFp6ZjR5MGoyV1FsWnNUaDBOelB4Vm1UWXVmUi1UQQ@
 vless://49e76398-5127-4005-90cb-c2a971f745f1@172.67.74.2:443?&security=tls&fp=firefox&sni=lucxi.lightorbitlab-kiloilm.sbs&type=ws&headerType=none&host=lucxi.lightorbitlab-kiloilm.sbs&path=%2Fram#C%20papa%20107982
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#C%20papa%20107993
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#C%20papa%20107999
+vless://4ed6fe44-cc81-4de5-841c-926546378152@rguhqa.mehrad.dpdns.org:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=search.arin.net#A2%20papa%20108001
+vless://4ed6fe44-cc81-4de5-841c-926546378152@sdf54654SF645.phooenix2000006.shop:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=www.aparat.com&fp=chrome&pbk=g2SD52sLiQaEBwsi2AakOWQ8W_ceOLIh8aAOU5HEOWw&sid=ce702769abcbc729#A2%20papa%20108002
+vless://4ed6fe44-cc81-4de5-841c-926546378152@fqarfj.mehrad.dpdns.org:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=updates.cdn-apple.com#A2%20papa%20108003
+vless://109f3cfa-8fc5-4a44-8a46-5ae3c8c262ff@ahmad-ir.3patify.com:37214?security=&encryption=none&host=google.com&headerType=http&type=tcp#A2%20papa%20108004
+vless://413ed615-9ecf-40b9-8a2e-e294395a3566@66.33.22.244:443?encryption=none&type=ws&host=web-production-febbb.up.railway.app&path=/ws/vless/413ed615-9ecf-40b9-8a2e-e294395a3566?ed%3D2048&security=tls&fp=chrome&sni=web-production-febbb.up.railway.app&alpn=h3#A2%20papa%20108005
+vless://4411e63c-9d5f-403f-b8b4-89ea29fbde2a@176.65.151.64:443?security=reality&encryption=none&pbk=vrCKcD_CfJ3HnoBh8WVGXXPxhCyjXjSVnFDfi14w53s&headerType=none&fp=firefox&spx=%2Fa32433ebeac8e8c&type=tcp&flow=xtls-rprx-vision&sni=home.amazon.com&sid=71c764#A1%20papa%20108006
+vless://b6f3b292-00c9-430e-bc4c-b1294bd895c0@185.126.67.76:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn-de-4.ai-apiroute.cc&fp=firefox&pbk=kaw2U8L2ZTcgo56qUBONfylYJpHprI_CgZfv1I4q2Sc&sid=b512d49930874a31&type=tcp&headerType=none#C%20papa%20108009
+trojan://ND91608427@dynamic-grubworm.rooster465.autos:443?security=tls&sni=dynamic-grubworm.rooster465.autos#C%20papa%20108013
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#C%20papa%20108020
