@@ -1,13 +1,3 @@
-vless://f4dbc770-016d-4a0f-82f0-d83ee6f45da3@94.249.225.79:443?security=reality&encryption=none&pbk=X6zcH8pCUXrauNQvbNkm8e_oTdB0wOr8eCMCzs3b1Tc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=grand-lynx.cdn.cachefleet.com#A1%20papa%20106136
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.156.196:62145?&type=tcp&headerType=none&path=%2F#C%20papa%20106140
-trojan://ND91608427@distinct-llama.rooster465.autos:443?allowInsecure=1&sni=distinct-llama.rooster465.autos#C%20papa%20106142
-vmess://eyJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIyMzI0IiwicHMiOiJDIHBhcGEgMTA2MTQ0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjcxIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
-trojan://ND91608427@striking-maggot.rooster465.autos:443?allowInsecure=1&sni=striking-maggot.rooster465.autos#C%20papa%20106145
-trojan://ND91608427@saving-octopus.rooster465.autos:443?security=tls&sni=saving-octopus.rooster465.autos#C%20papa%20106152
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#C%20papa%20106153
-trojan://ND91608427@intimate-moray.rooster465.autos:443?allowInsecure=1&sni=intimate-moray.rooster465.autos#C%20papa%20106154
-vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@31.76.251.127.cdn-one.org:443?fp=chrome&host=31.76.251.127.cdn-one.org&path=%2F10336%2F2GCOqG7bvA&security=tls&sni=31.76.251.127.cdn-one.org&type=ws#C%20papa%20106160
-vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@ee.rexten.cc:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&sni=ee.rexten.cc&type=tcp#A2%20papa%20106162
 vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@72.56.52.30:10443?encryption=none&fp=&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&security=reality&serviceName=GunService&sni=lv.rexten.cc&type=grpc#A2%20papa%20106163
 vless://8fecd05d-a813-45ca-8e4c-84ccaecaa923@swedddich.xanka.best:2761?encryption=none&fp=&pbk=dceVfMGiO2_ER1FpViwO2enwKMXJXxVDmURu3NLN5zU&security=reality&serviceName=apisub&sid=57e7bb88&sni=adobe.com&type=grpc#A2%20papa%20106164
 vless://14927bde-0fc8-447c-8c5f-e7fd1bfc6698@78.17.159.71:8443?encryption=none&fp=&pbk=wjwbbmCr0pjMb6Qvvcf7KMrE-w92jsqJbrNQy8g5EDg&security=reality&serviceName=tab.cf.v1&sid=617a11ec485b2d90&sni=www.cloudflare.com&type=grpc#A2%20papa%20106165
@@ -998,3 +988,13 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?security=realit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#C%20papa%20108583
 vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjY1YTJkNjktNTYzNC00MmEyLWU0YmUtNTRlOGE2MTc2OTAwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IkMgcGFwYSAxMDg1ODQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 vless://28d0edc6-93c9-4465-bac9-720274d8b8c4@status.netraidly.ru:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=qq&pbk=WRveYv8IuUyvai4jgnQ6nWCL971-wKboe8evES5arlg&sid=69d4&type=tcp&headerType=none#C%20papa%20108587
+hysteria2://22j0d00lev7mq0yv@musicclips.videolinks.ru:8443/?insecure=1&obfs=salamander&obfs-password=8zzng75tz4tf82pj&sni=musicclips.videolinks.ru#A2%20papa%20108589
+vless://551955b3-46e9-5129-95c9-e7474c15ed6b@144.31.171.233:443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pl6.fast-connect-service.site&type=tcp#A2%20papa%20108590
+vless://551955b3-46e9-5129-95c9-e7474c15ed6b@144.31.168.91:443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=de14.fast-connect-service.site&type=tcp#A2%20papa%20108591
+wireguard://AEixtDL%2BxSNVZqzo8MlA3gbWE%2B7zGiUC%2FsoVmkMlsVI%3D@162.159.192.7:2408?address=172.16.0.2%2F32&reserved=87%2C230%2C242&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#A2%20papa%20108592
+vless://d0eca1e1-c4ec-43dc-a6e9-25e5d29d9fe5@193.39.9.240:1200?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=m8hOnhxPNmdXtfOky4MHI9FhArP3qqfH7lxcopcQfQA&fp=chrome&spx=%2F5hTXohV7JQ13R13&type=xhttp&sni=www.intel.com&sid=84e5e84350c46895#A1%20papa%20108593
+vless://d0eca1e1-c4ec-43dc-a6e9-25e5d29d9fe5@193.39.9.240:1300?security=reality&encryption=none&pbk=NFsIgOxjsTyqP45-UF_42xOsQH6u6vZSJ90JQYDtuSo&headerType=none&fp=chrome&spx=%2F66Q11ymQVGjJQY0&type=tcp&sni=www.intel.com&sid=15629d#A1%20papa%20108594
+vless://9ab4c043-dc1a-403b-b8a4-b9ddb1616e8d@191.40.4.7:40359?security=none&encryption=none&headerType=none&type=tcp#A1%20papa%20108595
+trojan://ND91608427@nearby-egret.rooster465.autos:443?allowInsecure=1&sni=nearby-egret.rooster465.autos#C%20papa%20108600
+vmess://eyJhZGQiOiI2Ny4yMjAuNzIuMjM3IiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmFtZSI6IlVTIPCfh7rwn4e4IHwgQFJheWRpa2FseCB8IDM1MTEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOjIyMzI0LCJwcyI6IkMgcGFwYSAxMDg2MTAiLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjpudWxsLCJ0bHMiOiIiLCJ0eXBlIjpudWxsLCJ2IjpudWxsfQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#C%20papa%20108614
