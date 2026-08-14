@@ -1,8 +1,3 @@
-vless://cdd5a2b2-d1a7-4552-9344-4aee357840c9@193.39.9.240:500?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=Pa-muVRBNhTAVzh3JQKpTWlnWgc1MZ3nu_sZ31f9dXw&security=reality&sid=57908c9654a642&sni=www.intel.com&spx=%2Fop3yFfnwRVkbM22&type=xhttp&x_padding_bytes=100-1000#A1%20papa%20107182
-vless://cdd5a2b2-d1a7-4552-9344-4aee357840c9@193.39.9.240:1200?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=m8hOnhxPNmdXtfOky4MHI9FhArP3qqfH7lxcopcQfQA&security=reality&sid=c0ca&sni=www.intel.com&spx=%2FCz628c2XY5tOlK8&type=xhttp&x_padding_bytes=100-1000#A1%20papa%20107183
-vless://442e1d8f-d2d3-422c-b03a-00b13098fb9a@185.226.92.175:59230?encryption=none&security=none&type=tcp&headerType=none#A1%20papa%20107184
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.231.82:5600#C%20papa%20107190
-vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@31.76.251.127.cdn-one.org:443?&security=tls&fp=chrome&type=ws&headerType=none&host=31.76.251.127.cdn-one.org&path=%2F10336%2F2GCOqG7bvA#C%20papa%20107193
 vless://7e5964d036b843ff885b86c4d3bfd466@85.159.228.250:25703?#C%20papa%20107198
 vless://8be64379-08a5-4362-b8cf-234a65409bda@172.67.148.41:80?encryption=none&security=none&type=ws&host=telegram4.freepersianland8.workers.dev&path=%2FeyJqdW5rIjoiOW56N0hTRm9IS252IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OmIwOjY0OjpdIiwiWzI2MDI6ZmM1OToxMTo2NDo6XSJdfQ%3D%3D%3Fed%3D2560#A1%20papa%20107205
 vless://f4dbc770-016d-4a0f-82f0-d83ee6f45da3@213.193.255.205:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=sBSNX3DhJSWOkqTmRHisayVLisCBQLb4JcpKzwCrvC0&sni=gb.cdn.cachefleet.com#A1%20papa%20107207
@@ -998,3 +993,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.29:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#C%20papa%20109737
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.32:443#C%20papa%20109738
 vless://e5ce79f9-fdac-4e80-8286-a15b96fded72@103.180.20.228:8443?&security=tls&fp=chrome&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#C%20papa%20109739
+vmess://eyJ2IjoiMiIsInBzIjoiQyBwYXBhIDEwOTc1NCIsImFkZCI6IjE1OC41MS4xMjEuNjMiLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJzZXJpYnVzLm9yZyIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIiwic25pIjoic2VyaWJ1cy5vcmciLCJ0ZXN0X25hbWUiOiIyNiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://b222ebc7-569c-45ca-a0e4-756f171b247b@92.63.99.228:4353?type=tcp&security=reality&sni=tradingview.com&fp=firefox&pbk=YXVnk7FdM6IXOlFqisWurmtfmoftXLqqsrJ-JqqP6Rc&flow=xtls-rprx-vision#C%20papa%20109756
+vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf6.466688.xyz:443?sni=cfoo-146.pages.dev&type=ws&host=cfoo-146.pages.dev&path=/QiangLieTuiJian?ed=2560fp=chrome&security=tls#C%20papa%20109757
+vless://b08562b0-dbc0-47d1-860d-9435133b25c9@172.64.147.227:443?path=/QiangLieTuiJian?ed&security=tls&encryption=none&insecure=0&host=cfoo-146.pages.dev&type=ws&allowInsecure=0&sni=cfoo-146.pages.dev#C%20papa%20109766
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001286ek2.cybervena.com:50099#C%20papa%20109768
