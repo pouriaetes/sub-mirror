@@ -1,12 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388?type=tcp&headerType=none#A1%20papa%20112004
-vless://bd73cb46-5d86-42ca-ac4e-e702825a221a@193.111.78.106:61134?encryption=mlkem768x25519plus.native.0rtt.fifrfSw33WQdkPjmBmNvrLDaYE_6hmHOH-dcI_rRblA&security=none&type=ws&host=node.badrangteb.ir&path=%2F#A1%20papa%20112006
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#C%20papa%20112007
-vmess://eyJ2IjoiMiIsInBzIjoiQyBwYXBhIDExMjAwOCIsImFkZCI6ImVqb21zeHB0cDE5YXB5Z2wudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwiaG9zdCI6ImVqT01zeFB0UDE5QVB5R0wudi4zZG5zLnZpcCIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#C%20papa%20112010
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#C%20papa%20112012
-vmess://eyJhZGQiOiJleDFvZ3Q3M256cHFrYWMyLnYuM2Rucy52aXAiLCJhaWQiOjAsImhvc3QiOiJFWDFvR3Q3M056UFFLQWMyLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6NDQzLCJwcyI6IkMgcGFwYSAxMTIwMTMiLCJzZWN1cml0eSI6ImF1dG8iLCJzbmkiOiJFWDFvR3Q3M056UFFLQWMyLnYuM2Rucy52aXAiLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
-vless://%58pnTeam-23@140.248.186.45:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#B%20papa%20112027
-vless://%58pnTeam-24@www.speedtest.net:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=sazeg.bEwiNja.ir.&fp=chrome&type=xhttp&allowInsecure=0&sni=sazeg.bEwiNja.ir.#B%20papa%20112028
 vless://%58pnTeam-25@140.248.186.45:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#B%20papa%20112029
 vless://%58pnTeam-26@www.speedtest.net:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=sazeg.bEwiNja.ir.&fp=chrome&type=xhttp&allowInsecure=0&sni=sazeg.bEwiNja.ir.#B%20papa%20112030
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=%2Fhttp&security=&encryption=none&host=de.vpnbase.net&type=ws#A1%20papa%20112033
@@ -998,3 +989,12 @@ trojan://6ec301428255a78a1d826988d86cc87e@16.162.109.29:50887?allowInsecure=1&sn
 trojan://IQ68037294@correct-pony.rooster465.autos:443?allowInsecure=1&sni=correct-pony.rooster465.autos#C%20papa%20114361
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#C%20papa%20114362
 trojan://FH72359861@great-wasp.rooster465.autos:443?allowInsecure=0#C%20papa%20114364
+vless://060306e8-3373-45fc-a195-52caa701010e@spider-panel-production-e564.up.railway.app:443?encryption=none&security=tls&type=ws&host=spider-panel-production-e564.up.railway.app&path=%2Fws%2F060306e8-3373-45fc-a195-52caa701010e&sni=spider-panel-production-e564.up.railway.app&fp=chrome&alpn=http/1.1#A2%20papa%20114367
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.104:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#A2%20papa%20114368
+vless://8107d9b3-1acc-4da3-9a04-5fd0ba338b64@ge1.app-sync-data.space:443?security=reality&encryption=none&pbk=mdq9VnjKpqZJkZGxK9He6Mrs8f5Shuw08JbLswAJ6UY&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=a3f8d2c1e5b60794#A2%20papa%20114369
+vless://8e75118b-5bb4-4c29-aeec-8bbafab071ee@ru1.pinkvpn.ru:443?security=reality&encryption=none&pbk=MM05pCamusdSxwIZ0UO0OMH5QuJlc2ZXlqKU3aXyW2w&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ru1.pinkvpn.ru&sid=a1b2c3d4#A2%20papa%20114370
+vless://4984930f-4a7a-4dfa-8edc-5d21bbf5ca13@185.113.11.136:1443?security=reality&encryption=none&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&fp=firefox&type=grpc&serviceName=grpc&sni=sw.pubconverter.com&sid=361c68748712c743#A1%20papa%20114371
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388#C%20papa%20114379
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&type=tcp&headerType=none#C%20papa%20114383
+vless://91d0fa43-e557-43e7-a731-f0c3d1fb306a@89.105.208.124:443?type=tcp&headerType=none&security=reality&encryption=none&sni=n1.cloudgaming.one&fp=firefox&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&flow=xtls-rprx-vision#C%20papa%20114386
+trojan://ND91608427@striking-maggot.rooster465.autos:443?allowInsecure=1&sni=striking-maggot.rooster465.autos#C%20papa%20114392
