@@ -1,12 +1,3 @@
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#A2%20papa%20113201
-vless://564082ff-cf3c-48db-9e10-8ad2312847b4@144.31.226.178:443?security=reality&encryption=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=node16.mxvpn.dev&sid=bbc68cec8bb8d2e3#A2%20papa%20113202
-vless://928e6cce-8ced-4243-9a48-a6642edd09b0@103.149.183.198:13779?security=reality&encryption=none&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&host=tesla.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tesla.com&sid=af1bdd293097b664#A2%20papa%20113203
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#A2%20papa%20113204
-trojan://FH72359861@national-stingray.rooster465.autos:443?allowInsecure=1&sni=national-stingray.rooster465.autos#A2%20papa%20113205
-vless://b748a230-b157-4401-8423-f8e44df31b5e@82.117.255.87:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.cloudflare.com&fp=chrome&pbk=1xxZM10W-A8nuj6MOXFd1kA9lS7bEy-5SO5j-jrd_Cg&sid=b70076439f4a1340&flow=xtls-rprx-vision#C%20papa%20113207
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#C%20papa%20113209
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.157.224.206:22222?&type=tcp&headerType=none&path=%2F#C%20papa%20113214
-vmess://eyJhZGQiOiIxNTAuMTA5LjI0MC4xNzkiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImY5ZGNiMzAzLTNlNzMtNDBlYi05MzI3LTFhYzg4ZjlhMmI3MiIsIm5ldCI6IndzIiwicGF0aCI6Ii93c3Byb3h5IiwicG9ydCI6ODQ0MywicHMiOiJDIHBhcGEgMTEzMjE4IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiJ3d3cuYmluZy5jb20ifQ==
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#C%20papa%20113222
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?path=%2FGOrbEh%23TELEGRAM-v2ray_configs_pools%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#A2%20papa%20113225
 trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#A2%20papa%20113226
@@ -998,3 +989,12 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.231.93:62145?#C%20papa%2011
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?allowInsecure=1&sni=t11.qifei.app#C%20papa%20115558
 vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?&security=tls&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#C%20papa%20115559
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.67.170.11:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#C%20papa%20115561
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.148.244:2095?path=/&security=none&encryption=none&type=ws&host=fuckingfangbinxing.pusytroller.cf#A1%20papa%20115568
+trojan://FH72359861@internal-mongoose.rooster465.autos:443?allowInsecure=0&sni=internal-mongoose.rooster465.autos#C%20papa%20115574
+trojan://FH72359861@13.231.237.228:443?allowInsecure=0&sni=classic-pug.rooster465.autos#C%20papa%20115576
+vmess://eyJ2IjoiMiIsInBzIjoiQyBwYXBhIDExNTU3OCIsImFkZCI6IjEzMi4xNDUuODAuMjMwIiwicG9ydCI6ODAsImlkIjoiNTE1NTg2MGUtZDA3ZC00NmMzLTkxMjgtM2FmYmQ4NDYyNmM3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+trojan://AE62539071@known-albacore.rooster465.autos:443?security=tls#C%20papa%20115579
+trojan://ND91608427@casual-bee.rooster465.autos:443?allowInsecure=1&sni=casual-bee.rooster465.autos#C%20papa%20115582
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#C%20papa%20115585
+vmess://eyJ2IjoiMiIsInBzIjoiQyBwYXBhIDExNTU4NiIsImFkZCI6IjM4LjkxLjEwNy40OSIsInBvcnQiOiIxODAwMCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiODciLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+trojan://FH72359861@endless-kiwi.rooster465.autos:443?allowInsecure=1#C%20papa%20115587
