@@ -1,10 +1,3 @@
-vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@31.57.190.9:443?&security=tls&fp=chrome&sni=kjgdksgghre466.pages.dev&type=ws&headerType=none&host=kjgdksgghre466.pages.dev&path=%2F#C%20papa%20114990
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#C%20papa%20114991
-vless://14777bd9-56a5-46f6-a94f-826b4800dc05@176.108.243.192:9880?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&type=grpc&mode=gun&authority=&serviceName=grpc-tunnel#C%20papa%20114993
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.42.54:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#C%20papa%20114996
-vless://f1d247db-d7ce-4eb8-9c0d-7b10603cd0b4@103.148.73.144:8443?&security=tls&fp=chrome&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#C%20papa%20115002
-vless://2475bea4-6e40-4351-aa5c-dff9e22fbeee@ge-isdf.slovovpn.com:42321?security=reality&encryption=none&pbk=C8lo017EXpVnG_TxCYibs_NBzbgoW-61IQH4qZhHGmw&headerType=none&fp=firefox&type=tcp&sni=www.github.com&sid=4304dc07d6a4b236#A2%20papa%20115010
-vless://6a6f414c-0326-4764-8e90-04f53cdaac57@94.237.85.204:28961?type=tcp&encryption=none&path=%2F&host=zula.ir&headerType=http&security=none#A2%20papa%20115011
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:443?path=/fp&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#A2%20papa%20115012
 vless://1da18def-6804-44c8-bb6d-83cff995f567@144.124.235.67:443?security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc#A2%20papa%20115013
 vless://70d0af29-a027-4d45-ad8d-e0ee1b4232b8@91.107.152.149:443?security=reality&encryption=none&pbk=uSoNVrVIdQ5Y0YOpDCRkaYK5VAzYG6tCPtTc4cim7Tw&headerType=none&fp=chrome&spx=%2F219dd8cbf733ebb&type=tcp&sni=cstudio.semiconductor.samsung.com&sid=8ebe2a89#A1%20papa%20115014
@@ -998,3 +991,10 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.207:443?path=%2Ffp&secur
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.90:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#C%20papa%20117280
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#C%20papa%20117286
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.4.221:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#C%20papa%20117287
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.124.70:62145?&type=tcp&headerType=none&path=/#A2%20papa%20117289
+vless://40605cc9-1457-4525-9337-f05be718ae99@neth2dr.whooisthebest.ir:22216?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=sTE0YXI6Pv6OQUNbM-hNpNOhzon0_m2YUd7B1_g-JAU&sid=0f4412d42129f080#A2%20papa%20117290
+vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@gr2.levikogjgfdd.ir:443?encryption=none&type=grpc&mode=gun&serviceName=api.v1.StreamService&security=reality&sni=api.noneok.com&pbk=S8O8R938N960cpQfIIDXsJTxeGAkbVv6PlIqP0-d30w&sid=1ea59febb8d4fc8e#A2%20papa%20117291
+vless://00b41e07-68e6-46b0-928f-a02becd4e398@site.lezzasivo.ir:2082?security=reality&encryption=mlkem768x25519plus.native.0rtt.f7Tb0m3B9X1wwykTgP_vWHH6uXOt8CX-MAipUAObJ1c&pbk=wlmLbcRWfPz3NkrX18vCrw-C3s3qzeipsfnrm457x1k&headerType=http&fp=chrome&type=tcp&sni=check-host.net&sid=31eec4cab22d3de8#A2%20papa%20117292
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.182.189.87:22223?encryption=none&security=none&type=tcp&headerType=none#A1%20papa%20117293
+vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?security=reality&encryption=none&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&headerType=none&fp=chrome&type=tcp&sni=bgcpartners.com&sid=e6ac18b63f23#C%20papa%20117311
+vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?&type=ws&headerType=none&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=%2F#C%20papa%20117313
