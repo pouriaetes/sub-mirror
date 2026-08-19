@@ -1,12 +1,3 @@
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.238:443?security=reality&encryption=none&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=savesafe.co&sid=f63805c3ecc7a483#A1%20papa%20114904
-vless://10af0a09-4a6a-4938-8fef-085c495d1c2f@176.65.151.215:80?path=%2F&security=none&encryption=none&type=ws#A1%20papa%20114905
-vless://10af0a09-4a6a-4938-8fef-085c495d1c2f@176.65.151.215:8443?security=none&encryption=none&headerType=none&type=tcp#A1%20papa%20114906
-vless://b3080310-95cf-43e3-ad7a-0149af448182@185.110.188.161:8433?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#A1%20papa%20114907
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#C%20papa%20114909
-vless://218fd696-e3a2-4c33-b397-a5f13a82969e@94.156.155.27:443?security=reality&type=tcp&fp=firefox&sni=www.telekom.de&pbk=bY0-zlTOPCaEWDMw_BTzuzJW513tl6Hc61n4Z-q1cHE&sid=8f892fa1&spx=/#C%20papa%20114912
-vmess://eyJ2IjoiMiIsInBzIjoiQyBwYXBhIDExNDkyMCIsImFkZCI6InF0a2RyOGp4ZTN3ZWZ4am0udi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwiaG9zdCI6InFUS0RSOGpYRTN3RUZ4Sk0udi4zZG5zLnZpcCIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
-vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?security=reality&encryption=none&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&headerType=none&fp=chrome&type=tcp&sni=bgcpartners.com&sid=e6ac18b63f23#C%20papa%20114923
-trojan://FH72359861@darling-mongrel.rooster465.autos:443?allowInsecure=1&sni=darling-mongrel.rooster465.autos#C%20papa%20114924
 vless://9ffc5514-c744-4259-a270-8509918c9217@usi.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=aefc7f3722#A2%20papa%20114928
 vless://9ffc5514-c744-4259-a270-8509918c9217@uk-google.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=f88610dd#A2%20papa%20114929
 vless://9ffc5514-c744-4259-a270-8509918c9217@kp-play.mobileemdad.top:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=amp-api-edge.apps.apple.com#A2%20papa%20114930
@@ -998,3 +989,12 @@ trojan://FH72359861@absolute-bobcat.rooster465.autos:443?allowInsecure=0#C%20pap
 trojan://AE62539071@sacred-hound.rooster465.autos:443?allowInsecure=1#C%20papa%20117186
 vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=ws&host=towndtime.global.ssl.fastly.neT.&path=/&security=tls&sni=ssl.fastly.com#C%20papa%20117187
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.227.134:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#C%20papa%20117188
+vless://6b6733fb-580b-411b-8bf8-51137c2aa037@172.66.170.53:8880?alpn=http%2F1.1&host=restless-sky-eb31.438-aa8.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&sni=restless-sky-eb31.438-aa8.workers.dev&type=ws#A1%20papa%20117191
+vless://8d36dcef-c008-47f1-b8a0-4f63193697f8@104.16.100.215:8880?host=tiny-union-8d4d.32-c76.workers.dev&path=%2Fpyip%3Dte%E2%80%A6+&security=none&type=ws#A1%20papa%20117192
+vless://24c2a873-4584-4c53-8679-61029682d0bb@172.67.209.127:8880?host=soft-thunder-bc22.111-f59.workers.dev&path=%2Fpyip+&security=none&type=ws#A1%20papa%20117193
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YWYyMjZiNzcyNmY0ZDRjYjVjNzJmZTNiNTcwNTBmMA@3.75.179.86:443#A1%20papa%20117194
+vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MCwicHMiOiJDIHBhcGEgMTE3MTk2IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIxNTIuNjcuOC4yMDUifQ==
+trojan://ND91608427@intimate-moray.rooster465.autos:443?allowInsecure=1&sni=intimate-moray.rooster465.autos#C%20papa%20117197
+vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=israeel.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#C%20papa%20117201
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.3.141:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#C%20papa%20117208
+trojan://PQ05174892@52.220.98.46:443?allowInsecure=0&sni=pleased-albacore.rooster465.autos#C%20papa%20117210
