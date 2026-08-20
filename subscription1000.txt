@@ -1,13 +1,3 @@
-vless://4f562c6a-8446-4f45-bbde-495a6e6db338@pol.cryptoofarm.com:8443?security=reality&encryption=none&sni=pol.cryptoofarm.com&pbk=ZMoU6zdlhABeKKfsgRidv7o0-M_EtnHzeA6P_kXuv0g&sid=7e831024a7c0e7&flow=xtls-rprx-vision&fp=edge#A2%20papa%20116277
-vless://218fd696-e3a2-4c33-b397-a5f13a82969e@193.233.48.92:443?encryption=none&mode=gun&pbk=iUc9JqWjFemnQo8R5fgiwssCjEdWmixB4X-mRJkx2VE&security=reality&serviceName=grpc&sid=3182f9ae&sni=media3.abvphelp.cc&type=grpc&fp=ios#A2%20papa%20116278
-vless://60f4cb14-1235-42c8-aa16-aff0e278a2f5@188.114.97.6:443?path=%2F&security=tls&encryption=none&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%225%22%2C%20%2294%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22109%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D&insecure=0&host=edge.rezatakrim.kdns.fr&fp=unsafe&type=ws&allowInsecure=0&sni=edge.rezatakrim.kdns.fr#A2%20papa%20116279
-vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ikxldmlrb0NvbmZpZyIsImlkIjoiYjY1YTJkNjktNTYzNC00MmEyLWU0YmUtNTRlOGE2MTc2OTAwIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii9MZXZpa29Db25maWciLCJwb3J0IjoiNDQzIiwicHMiOiJDIHBhcGEgMTE2MjgzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
-trojan://fg20mtCFHy@147.182.198.83:5444?allowInsecure=1&sni=sfouctc.southbyte.xyz#C%20papa%20116289
-trojan://HC04361579@driven-doberman.rooster465.autos:443?allowInsecure=0&sni=driven-doberman.rooster465.autos#C%20papa%20116290
-trojan://fg20mtCFHy@157.245.99.215:5750?allowInsecure=1&sni=inyct.southbyte.xyz#C%20papa%20116291
-trojan://fg20mtCFHy@104.248.167.79:5624?allowInsecure=1&sni=dsgvc.southbyte.xyz#C%20papa%20116293
-trojan://fg20mtCFHy@173.255.247.228:5444?allowInsecure=1&sni=frsdata.southbyte.xyz#C%20papa%20116295
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.225.201:62145?&type=tcp&headerType=none&path=%2F#C%20papa%20116297
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.126.78:62145?&type=tcp&headerType=none&path=%2F#C%20papa%20116299
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SWNzS1BLSEtXOURPaVFFZVhjUm5ZTVI0ZGNaM3pQNWcwRGdaazZDUUhXdz0@146.235.35.83:59319#C%20papa%20116301
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.235.95:22223?&type=tcp&headerType=none&path=%2F#C%20papa%20116302
@@ -998,3 +988,13 @@ trojan://AE62539071@literate-cow.rooster465.autos:443?allowInsecure=1#C%20papa%2
 trojan://PQ05174892@witty-duckling.rooster465.autos:443?allowInsecure=1&sni=witty-duckling.rooster465.autos#C%20papa%20118283
 vless://fb978279-0a28-4045-8258-e9ab97deaf2b@188.164.248.117:2087?sni=3da0360c.myblog-2hd.pages.dev&type=ws&host=3da0360c.myblog-2hd.pages.dev&path=/security=tls#C%20papa%20118284
 trojan://ND91608427@internal-sunbird.rooster465.autos:443?allowInsecure=1&sni=internal-sunbird.rooster465.autos#C%20papa%20118286
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#C%20papa%20118288
+vless://7b102311-43fd-4e8f-877e-8090623c101d@104.18.33.37:443?&security=tls&fp=firefox&sni=vp33.cc.cd&type=ws&headerType=none&host=vp33.cc.cd&path=%2F#C%20papa%20118289
+trojan://FH72359861@lasting-jaguar.rooster465.autos:443?allowInsecure=1&sni=lasting-jaguar.rooster465.autos#C%20papa%20118291
+trojan://PQ05174892@usable-dogfish.rooster465.autos:443?security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0#C%20papa%20118294
+trojan://FH72359861@sacred-shepherd.rooster465.autos:443?security=tls&sni=sacred-shepherd.rooster465.autos&fp=chrome&type=tcp&path=/#C%20papa%20118295
+ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901#C%20papa%20118297
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.29:443#C%20papa%20118300
+trojan://FH72359861@13.231.237.228:443?allowInsecure=0&sni=classic-pug.rooster465.autos#C%20papa%20118305
+vless://2088ef0d-4d2c-43b3-874b-b6a03531c81b@104.20.6.134:443?security=tls&type=ws&path=/eyJqdW5rIjoiVVpPeXNodUFQMHNVcU12aCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&host=r.mediashoppp.sbs&ed=2560&packetEncoding=xudp&sni=r.meDiASHOPPp.sbS&fp=chrome&encryption=none#C%20papa%20118306
+trojan://PQ05174892@evolving-kangaroo.rooster465.autos:443?security=tls#C%20papa%20118307
