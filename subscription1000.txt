@@ -1,7 +1,3 @@
-vmess://eyJ2IjoiMiIsInBzIjoiQyBwYXBhIDEyNTUyNiIsImFkZCI6Im10Y2t1bmRpZ2Vwd3UzdXAudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwiaG9zdCI6Im1UQ0tVTkRpR2VQd1UzdVAudi4zZG5zLnZpcCIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:2052?security=none&type=ws&host=WxVvVtZx22.hAmEdIgOlD.CoM&path=/#A2%20papa%20125527
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.82.158:80?type=ws&host=us3.rtacg.com&path=%2F#A2%20papa%20125528
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.125.172:80?security=none&type=ws&host=us3.rtacg.com&path=/#A2%20papa%20125529
 vless://68a415dc-450c-4e3f-bc40-7ac7f52563df@185.146.173.58:2095?path=/servernet&security=none&encryption=none&host=dcc10.servernet.fun.&type=ws#A2%20papa%20125530
 vless://14777bd9-56a5-46f6-a94f-826b4800dc05@176.123.164.9:9872?encryption=none&security=reality&sni=dl.google.com&fp=firefox&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#A1%20papa%20125532
 vless://9e09f1ce-45d4-466d-b077-81b0dae00db2@31.76.111.113:7777?encryption=none&flow=xtls-rprx-vision&security=reality&sni=console.cloud.yandex.ru&fp=firefox&pbk=4iWZChsH0rnqtn89xiB1evDLkFjmgh-3WYjx8cknZC0&sid=a8b9c0d1e2f34567&type=tcp&headerType=none#A1%20papa%20125533
@@ -998,3 +994,7 @@ vless://15fd22d1-8931-4d41-af37-8ba6711e93fe@preview.netraidly.ru:40443?security
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.66.177:2095?&type=ws&headerType=none&host=cnmfangbinxingnmsl.cnm-fangbinxingnmsl-250.workers.dev&path=%2F#C%20papa%20127529
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#C%20papa%20127531
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.37.237:8443?&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2F#C%20papa%20127532
+vless://0f350a5d-e801-4eca-a1b9-abe9798ad48a@199.232.78.159:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#C%20papa%20127537
+ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:443#C%20papa%20127543
+vmess://eyJhZGQiOiJjZTBnZWRweHdvdTZjcW9uLnYuM2Rucy52aXAiLCJhaWQiOjAsImhvc3QiOiJjRTBnZWRQWHdPVTZjcW9OLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6NDQzLCJwcyI6IkMgcGFwYSAxMjc1NDQiLCJzZWN1cml0eSI6ImF1dG8iLCJzbmkiOiJjRTBnZWRQWHdPVTZjcW9OLnYuM2Rucy52aXAiLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.4.2:8443?path=%2F&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&sni=t1s1.rittbo.kdns.fr#C%20papa%20127546
