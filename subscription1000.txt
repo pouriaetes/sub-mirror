@@ -1,10 +1,3 @@
-vless://4cdedbb5-20f6-4036-9e72-22ce1dfc0d4b@france.selqora.ir:31663?encryption=none&security=none&type=tcp&headerType=none#A1%20papa%20133250
-vless://4cdedbb5-20f6-4036-9e72-22ce1dfc0d4b@usa1.selqora.ir:50303?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=XhfHr5VYPbNs6BrrsYc7Wd6-D2nJAO8QrixRuJarFkU&sid=c7158ef32c1d2a7e#A1%20papa%20133251
-vless://4cdedbb5-20f6-4036-9e72-22ce1dfc0d4b@it.selqora.ir:22211?encryption=none&security=none&type=tcp&headerType=none#A1%20papa%20133252
-vless://d1ffbeae-7583-4555-a811-276554b04cef@178.255.222.10:443?mode=gun&security=reality&encryption=none&authority=178.255.222.10&pbk=98WwtwT_X5HCtop046M27kTYVBx9KJXN8oseZd8i4Gg&fp=chrome&spx=%2F8b967671690f2b9&type=grpc&serviceName=gRPC&sni=delivery.mp.microsoft.com&sid=c6a16d6da4ab8e#A1%20papa%20133253
-vless://SoonTeam@dee.im-soon.com:443?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#A1%20papa%20133254
-vless://793169ce-4ab0-4458-bab0-cd6baa83bdc2@rua02.333210.best:40000?mode=auto&security=reality&encryption=none&pbk=vqnE1wKOqp4JXotgCl4SI2CBJ7ys3080cZjL83r9pmE&fp=safari&type=xhttp&sni=aws.amazon.com&sid=49443d1a#A1%20papa%20133255
-vless://60e2a548-96aa-4850-a279-1edab743c39b@de2.cnyvpn.com:2096?security=reality&encryption=none&pbk=pVUUDlLKPprJgV_ZcehzuhOFmw44Gk1DlRsny1zyxCI&host=--v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=conrad.de&sid=e3e76808b9fcd591#A1%20papa%20133257
 vless://da249715-4a6f-4873-ac3d-260f2b6e0065@mn8.levikogjgfdd.ir:10974?security=reality&encryption=none&pbk=rQHsnXffkul9uYK50Efqzu-KBZ6ZwKNZts86r8u3iEw&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=a727f329ba2a22#A1%20papa%20133258
 vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@mn11.levikogjgfdd.ir:19825?security=reality&encryption=none&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sg2-8sb.6121999.dpdns.org&sid=6ba85179e30d4fc2#A1%20papa%20133259
 vless://61344a01-5e77-45ad-9f0b-243eedff1dd3@de-node.official-happ.online:22886?security=none&encryption=none&headerType=none&type=tcp#A1%20papa%20133260
@@ -998,3 +991,10 @@ vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@rubifen.adaspoloandco.com:443?path=
 vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?security=reality&encryption=none&pbk=-O8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=7f7f#C%20papa%20135284
 vless://98b6cb05-b5ab-4c82-8683-07de28f796a9@188.114.97.6:2086?path=%2FeyJqdW5rIjoiRHF6VWU4SmYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0&security=&encryption=none&host=holy-glitter-39f9.wwewee2dasdds.workers.dev&type=ws#C%20papa%20135287
 vless://bba95b1f-f48c-454b-897b-a6c6bc307df1@142.248.218.34:2053?sni=edge.yzkvm.top&type=ws&host=edge.yzkvm.top&path=/fp=chrome&security=tls#C%20papa%20135288
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs3.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&fp=firefox&type=grpc&serviceName=edge.v2.FeedService&sni=rs3.univesalsrv.com&sid=35d05b666e2c6cdf#A1%20papa%20135298
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.33:443?mode=gun&security=reality&encryption=none&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&fp=firefox&type=grpc&serviceName=hub.v1.ApiService&sni=md4.univesalsrv.com&sid=8e07337954f9823f#A1%20papa%20135299
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#C%20papa%20135306
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#C%20papa%20135307
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#C%20papa%20135309
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#C%20papa%20135310
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.151.30:8880?type=ws&host=vms.lifetime42.workers.dev&path=/#C%20papa%20135314
