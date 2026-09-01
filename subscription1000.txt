@@ -1,11 +1,3 @@
-vless://64570902-4eb6-48ac-8b58-f61a3fd95fdf@185.110.189.172:443?encryption=mlkem768x25519plus.native.0rtt.-0MXXOstBc09cB1tSeGN1pwYBzVEiVW__njsxK2hd14&security=none&type=tcp#A2%20papa%20134797
-vless://533895c1-c9c4-a99a-51f8-68137bc8b24a@69.46.46.20:443?path=%2Fws%2F533895c1-c9c4-a99a-51f8-68137bc8b24a&security=tls&alpn=http%2F1.1&encryption=none&host=cedar-lantern-d4f0-production.up.railway.app&fp=ios&type=ws&sni=cedar-lantern-d4f0-production.up.railway.app#A2%20papa%20134798
-vless://7061b26c-0f6c-49b5-be42-af2c011c04bc@54.37.136.194:2053?security=reality&encryption=none&pbk=TtGgrgk1OLMjWBaomJ1JkUOvmtMx7sLJdvvN0bxmZF8&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=bdc1efeb01044e93#A2%20papa%20134799
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:443?path=%2F&security=none&encryption=none&host=estproxy4.lockdwn.com&type=ws#A2%20papa%20134801
-vless://3c3e3170-fe36-4925-a089-d55f29114f07@193.202.11.201:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=usa.orpheous.ru&fp=firefox&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&sid=9e4eced6e98ed4d4&type=tcp&headerType=none#A1%20papa%20134802
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.198:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#C%20papa%20134809
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cdn.asshole.eu.cc:2095?&type=ws&headerType=none&host=cdn.asshole.eu.cc&path=%2F#C%20papa%20134815
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#C%20papa%20134817
 vmess://eyJhZGQiOiIxNTQuMzcuMjIzLjU2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImYxYWM1YzgyLTAwYTQtNDAwYi1iYjIwLTUzMGM5MWI3YzViYiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvUVFxdW4tNzM3ODA1NDQzIiwicGNzIjoiIiwicG9ydCI6IjUyMDgwIiwicHMiOiJBMiBwYXBhIDEzNDgyNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIiwidmNuIjoiIn0=
 vless://41e71ba7-d389-47aa-94f7-ed1f55fdbcdf@194.93.61.100:443?security=reality&encryption=none&pbk=E1te_g9q6EWQVOCgjwI4PF-cml9qqW7OEAf33tYkUxQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=17d334ad29b2ff40#A2%20papa%20134825
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRdEVpUUV3TVowTnNVRmE4UVpzalpB@cdn-2d12.giftcardbazarbot.com:8243#A2%20papa%20134826
@@ -998,3 +990,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224
 vless://2b3e8750-b944-42fc-b36e-ec2c64b48a98@72.56.34.223:15207?security=reality&encryption=none&pbk=9kQGK7IuVFWU9xCb4g9ygL1CEv87QmVZJzWLz74pTSc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sl.convert-cloud.guru#C%20papa%20136746
 vless://c7e9c591-2764-423a-afca-efbd010fd396@5.45.117.125:443?path=%2F&security=tls&encryption=none&insecure=0&host=freeuse.firta.ru&fp=chrome&type=ws&allowInsecure=0&sni=freeuse.firta.ru#C%20papa%20136750
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#C%20papa%20136751
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443#C%20papa%20136753
+vless://b052df40-d51c-456c-9bd6-57af01a87e4e@156.67.63.231:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=sync-bridge.org&fp=chrome&pbk=PTqeBbbr2xJ1L3V1PyYjKjxanMKKqJHU-wtnpYmFQCI&sid=5606d4a25c99e7af&allowinsecure=0&type=tcp&headerType=none#C%20papa%20136754
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#C%20papa%20136756
+vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?&type=ws&headerType=none&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=%2F#C%20papa%20136757
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#C%20papa%20136770
+vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.cloudflare.com&fp=chrome&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&sid=fd8cf7e1173f0edb&flow=xtls-rprx-vision#C%20papa%20136772
+vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?encryption=none&security=reality&sni=www.ebay.com&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&type=grpc&mode=gun#C%20papa%20136773
+vmess://eyJhZGQiOiI4NC4xNy40MS4yIiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjpudWxsLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuYW1lIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgMTAxMjY5IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoxODAwMCwicHMiOiJDIHBhcGEgMTM2Nzc0Iiwic2N5IjpudWxsLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOm51bGwsInRscyI6IiIsInR5cGUiOm51bGwsInYiOm51bGx9
