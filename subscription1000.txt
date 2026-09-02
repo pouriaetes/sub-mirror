@@ -1,11 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.126.122:8388#C%20papa%20136446
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@108.162.198.178:8880?eh=Sec-WebSocket-Protocol&encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F&security=none&type=ws#C%20papa%20136447
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@108.162.198.178:2095?eh=Sec-WebSocket-Protocol&encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F&security=none&type=ws#C%20papa%20136450
-vless://aab91459-f905-4164-adda-c4ec45578542@173.255.242.56:39706?security=reality&encryption=none&pbk=SmWcFiJqTzD74CIIwbK4uckT9u7rpxy_wQ24TlJMphY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=586d60b12e89#C%20papa%20136451
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8080#C%20papa%20136452
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#C%20papa%20136456
-vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ikxldmlrb0NvbmZpZyIsImlkIjoiYjY1YTJkNjktNTYzNC00MmEyLWU0YmUtNTRlOGE2MTc2OTAwIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii9MZXZpa29Db25maWciLCJwb3J0IjoiNDQzIiwicHMiOiJDIHBhcGEgMTM2NDU5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.48.32:8880?security=&type=ws&path=/?ed=2560security=tls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&encryption=none#C%20papa%20136460
 vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@172.235.62.90:443?security=reality&encryption=none&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=1a#C%20papa%20136461
 vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?security=&encryption=none&type=grpc&serviceName=security.debian.org#A2%20papa%20136462
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.115:2087?path=%2F4bc027a44532&security=&encryption=none&type=ws#A2%20papa%20136463
@@ -998,3 +990,11 @@ vless://699ce9a1-abbb-4525-988e-b940381352e8@itproxy3.lockdwn.com:443?encryption
 vless://ec9b8fae-9a70-4106-9e6e-0c3ba725b4d9@2.24.131.46:443?security=reality&encryption=none&pbk=em5MbaJeZoe--syIy7L8MEoNBwN1mLB2ur_YAY8PuQ0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=daf012feff3b00d0#C%20papa%20138497
 vless://52b140a1-1e12-4410-9532-ebaee7cec3a1@150.241.64.1:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.deutsche-bank.de&pbk=ikKnBJfcuPy1U0O3Cb71zv_G1liM5QcAYhR10A0Ech0&sid=0f00666a#C%20papa%20138498
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.173:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#C%20papa%20138499
+vless://40fe98aa-6402-4360-8536-2abff5dc2c23@tr4.asasin5.ir:50470?encryption=none&fp=chrome&pbk=tECQZk9VU1DBPxk7eoxK5SSkw85uLiyinGe8-DW2A1o&security=reality&sid=d6186bca94692bac&sni=www.yahoo.com&spx=%2F737c5c8e9cc726b&type=tcp#A2%20papa%20138504
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.52.158:80?security=none&type=ws&host=us3.rtacg.com&path=/#A2%20papa%20138507
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.39.218:80?security=&type=ws&path=/?ed=2560security=tls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&encryption=none#C%20papa%20138509
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.175:2087?security=tls&type=ws&path=/&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&ed=2560&packetEncoding=xudp&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&encryption=none#C%20papa%20138516
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@gr.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=gr.freeinternat.com&sid=ff776ff77be48b88#C%20papa%20138518
+vmess://eyJhZGQiOiIxMzAuOTQuOTMuNjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzc3ZDBlYWQtOTcwYS00MTQ0LWI4YWEtZTNhYWYzYTYyMWY2IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLzc3N2QwZWFkIiwicG9ydCI6IjE0ODEyIiwicHMiOiJDIHBhcGEgMTM4NTI1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://255386a8-aec5-4425-bfe7-ca49b7448deb@5.255.126.104:46142?security=reality&encryption=none&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&headerType=none&fp=firefox&type=tcp&sni=www.yahoo.com&sid=39feeba3085c#C%20papa%20138526
+vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?security=none&encryption=none&headerType=none&type=tcp#C%20papa%20138527
