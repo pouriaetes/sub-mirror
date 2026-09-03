@@ -1,6 +1,10 @@
 vless://e4ad688b-9a6c-4ab2-8500-4ef7df01674c@turky.iranstoresf.ir:80?encryption=none&type=tcp&security=none#%F0%9F%87%B9%F0%9F%87%B7%20A2%20papa%20140116
 vless://e4ad688b-9a6c-4ab2-8500-4ef7df01674c@united.iranstoresf.ir:443?encryption=none&type=tcp&security=none#%F0%9F%87%BA%F0%9F%87%B8%20A2%20papa%20140117
 vless://c21631d5-36c9-4664-b575-97eca17456be@neth8.lunariai.ru:443?allowInsecure=1&type=ws&host=neth8.lunariai.ru&path=/#%F0%9F%87%A9%F0%9F%87%AA%20C%20papa%20140204
+vless://17d29827-7cf1-4115-b40d-548e10ec355d@billing.netraidly.ru:40443?security=reality&encryption=none&pbk=bjOGTQ4xsiFbyCPM_WzoK53L130rW5vZJtuYDJx_pkM&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=aa3c#%F0%9F%87%BA%F0%9F%87%B8%20A2%20papa%20140238
+hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52028?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%AE%20A2%20papa%20140239
+hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52002?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%AE%20A2%20papa%20140240
+hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52006?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%AE%20A2%20papa%20140241
 vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@maple.adaspoloandco.com:8443?path=%2Fuploader.php&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#%F0%9F%87%A8%F0%9F%87%A6%20C%20papa%20140180
 vless://abca037b-bee5-41cc-a888-0668e4c66176@bel-01.node.lumixnet.com:443?pbk=vEXgvoW9iQo6iiKT71cNt1CC3cAB4IWswAn-cScDz1A&fp=hellochrome_120&headerType=none&encryption=none&security=reality&sid=bd8a588cebc3395a&type=tcp&sni=bel-01.node.lumixnet.com&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20A2%20papa%20140208
 vless://5b3fa84b-376e-400d-8a97-34e557b0d89c@fr3.green-tg.com:443?fp=firefox&sni=www.lovelace.com&pbk=qQ4l40OckukEo2OoCTIpLrxBHKRa277XXhUAf3SYEhM&type=tcp&sid=abd0f00f85f814a1&flow=xtls-rprx-vision&encryption=none&headerType=none&security=reality#%F0%9F%87%AB%F0%9F%87%B7%20A2%20papa%20140209
@@ -14,11 +18,11 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#%F0%9F%87%AC%F0%9F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8080#%F0%9F%87%B3%F0%9F%87%B1%20C%20papa%20140095
 vmess://eyJhZGQiOiIxNTYuMjQ1LjIzMi4yMzkiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImIxNWU0ODFkLTE3ZTQtNDFhOC04NGMyLTIzZDRmMDUxNGQ5YSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjozNTA0MywicHMiOiLwn4et8J+HsCBDIHBhcGEgMTQwMDk2IiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#%F0%9F%87%BA%F0%9F%87%B8%20C%20papa%20140097
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443#%F0%9F%87%B3%F0%9F%87%B1%20C%20papa%20140083
 ss://YWVzLTI1Ni1nY206ODk1YjRiNzk2YTM1NzU3MA==@176.32.35.51:10081#%F0%9F%87%B7%F0%9F%87%BA%20C%20papa%20140202
 vless://167ed405-7de9-4bff-b1ea-6e3d49c76b0b@172.238.232.239:32833?security=reality&encryption=none&pbk=PaTDdYBrlh1xBixdI0igvRRkf0vnUwMRzi-4oDyfS20&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=a0a305ccc8e94aa8#%F0%9F%87%AE%F0%9F%87%B9%20C%20papa%20140203
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgQyBwYXBhIDE0MDIwNSIsImFkZCI6IjguMjE4LjE4NC40IiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJOWWNRZzE5emt3YUNQTTFCLnYuM2Rucy52aXAiLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwic25pIjoiTlljUWcxOXprd2FDUE0xQi52LjNkbnMudmlwIiwidGVzdF9uYW1lIjoiSEs2Iiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggQyBwYXBhIDE0MDIwNiIsImFkZCI6IjEyOS4xNDYuNzcuMjQ4IiwicG9ydCI6IjM5NDk1IiwiaWQiOiJmODM2YzczNi04N2ZjLTRmZGUtYWFiYy0wMDg1N2VjZGZmM2UiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHRlc1owcXZndGc@38.180.135.156:8388#%F0%9F%87%BA%F0%9F%87%B8%20A2%20papa%20140237
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggQyBwYXBhIDE0MDE3MyIsImFkZCI6IjE2NS4xNDAuMjE2LjE0MiIsInBvcnQiOiI0NDMiLCJpZCI6ImI2NWEyZDY5LTU2MzQtNDJhMi1lNGJlLTU0ZThhNjE3NjkwMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii9MZXZpa29Db25maWciLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVUzUiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443#%F0%9F%87%B3%F0%9F%87%B1%20C%20papa%20140179
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#%F0%9F%87%A9%F0%9F%87%AA%20C%20papa%20140181
@@ -60,10 +64,6 @@ vless://828aa918-2ed3-4541-8519-083f9efeaaf7@188.114.97.6:8080?encryption=none&s
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20A2%20papa%20140130
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.245.146:62145?encryption=none&security=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20A2%20papa%20140131
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.152.80:62145?encryption=none&security=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20A2%20papa%20140132
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.168:443#%F0%9F%87%BA%F0%9F%87%B8%20C%20papa%20140088
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6%20C%20papa%20140090
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%F0%9F%87%BF%F0%9F%87%A6%20C%20papa%20140091
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#%F0%9F%87%BF%F0%9F%87%A6%20C%20papa%20140092
 vless://a30a3f37-1ab2-46bd-8c6b-a26d7c775f2a@store.epicgames.com:443?&security=tls&fp=chrome&sni=grc.ccwu.cc&type=ws&headerType=none&host=grc.ccwu.cc&path=%2F%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20C%20papa%20140160
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.29:443#%F0%9F%87%B3%F0%9F%87%B1%20A2%20papa%20140113
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.32:443#%F0%9F%87%B3%F0%9F%87%B1%20A2%20papa%20140114
