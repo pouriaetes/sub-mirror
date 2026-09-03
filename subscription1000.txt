@@ -1,12 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#C%20papa%20138062
-vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#C%20papa%20138064
-vless://928e6cce-8ced-4243-9a48-a6642edd09b0@103.149.183.198:13779?security=reality&encryption=none&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tesla.com&sid=af1bdd293097b664#C%20papa%20138065
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#C%20papa%20138072
-vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dartsearch-cn.net&fp=chrome&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&type=tcp&headerType=none#C%20papa%20138076
-vless://a3f59a62-b4ad-4f02-bfce-ef68e63ab6f7@5.129.214.249:8443?path=%2Fapi%2Fuser&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=safari&type=ws&allowInsecure=0&sni=nlxy.korgivps.ru#C%20papa%20138078
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.170:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=firefox&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#A2%20papa%20138079
-vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@87.239.249.137:443?security=reality&encryption=none&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.foxsports.com&sid=91af08b1ce1f#A2%20papa%20138080
-vless://41e71ba7-d389-47aa-94f7-ed1f55fdbcdf@194.93.61.100:443?security=reality&encryption=none&pbk=E1te_g9q6EWQVOCgjwI4PF-cml9qqW7OEAf33tYkUxQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=17d334ad29b2ff40#A2%20papa%20138081
 vless://c5d3a1f3-4882-4d7a-9f8c-d3c5793b62f9@fo1.karmatel.ir:8080?encryption=none&host=xn-deplay.google.com.dbsll.ir&path=%2F&security=none&type=httpupgrade#A2%20papa%20138082
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.27:443?encryption=none&type=grpc&mode=gun&serviceName=home.v1.ApiService&authority=TELEGRAM@MARAMBASHI_MARAMBASHI&security=reality&fp=firefox&sni=bg3.univesalsrv.com&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&sid=1be1bd931c98c84a#A1%20papa%20138084
 vless://337e83cf-e9f9-4237-b27c-5649ec7ee293@germany.spacexiphone.cyou:25259?encryption=mlkem768x25519plus.native.0rtt.7vqvi9LMYJrixfTh3GaGeB6tpe-oiIdl6zh1YgsrM2U&security=none&type=tcp&headerType=none#A1%20papa%20138085
@@ -998,3 +989,12 @@ vless://5d8fae5f-0427-4da3-99ab-242905fa5c69@fast.iqiraq.shop:443?encryption=non
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@15.204.246.111:5498#C%20papa%20140341
 vmess://eyJ2IjoiMiIsInBzIjoiQyBwYXBhIDE0MDM0NCIsImFkZCI6IjQ3Ljg2LjE2Ny4xOTQiLCJwb3J0IjoiODAwIiwiaWQiOiJmMmM2N2NhZS1jMDlkLTQ3MzktOTQ3ZC1mNTMwMmQ4N2EzYzAiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6InNqc2tlbmRuLmRpbmd0YWxrLmNvbSIsInBhdGgiOiIveCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IkhLMTEiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vless://c8c06f90-c267-47a6-a91a-967e58e61db0@204.44.127.222:37262?security=none&encryption=none&headerType=none&type=tcp#C%20papa%20140347
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080?#A2%20papa%20140348
+vless://6bd3e20b-4be0-41df-a1e0-5c147cc8fbfc@178.72.147.249:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#A2%20papa%20140349
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppbXEwdkxpa2JPeDRUSFpQ@20.107.193.38:443#A2%20papa%20140350
+vmess://eyJ2IjoiMiIsInBzIjoiQyBwYXBhIDE0MDM1MyIsImFkZCI6IjU0LjE2OC4yNDIuMjUiLCJwb3J0IjoiODU1NSIsImlkIjoiN2FhM2EwMjQtZTMzMy00YjYzLTk5YTItM2RiOWQzYjIwNTRlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJwYXRoIjoiLyIsImhvc3QiOiJhLjE4OS5jbiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.225:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#C%20papa%20140357
+vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#C%20papa%20140358
+vless://1990630e-c2cf-4d1f-bba0-a51423df89a9@172.233.156.42:12668?security=reality&encryption=none&pbk=3sM_YEGrVBcvVyTzs6wes0zYq3GSGYbDfgkseWaYFmU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=7403a0a9d45e89#C%20papa%20140361
+ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:80#C%20papa%20140365
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080#C%20papa%20140367
