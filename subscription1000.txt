@@ -1,8 +1,3 @@
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?allowInsecure=1&sni=russiapower.accesscam.org#C%20papa%20138093
-vmess://eyJhZGQiOiJuZXdyZWxheC5yZWxheGVkYm95Lm9ubGluZSIsImFpZCI6IjAiLCJpZCI6IjhlOTY4N2ZjLWEzYTctNDE0YS04Njc2LThlMjEzNjc5N2NmZSIsIm5ldCI6InRjcCIsInBvcnQiOiIxMTAiLCJwcyI6IkMgcGFwYSAxMzgwOTQiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
-vless://d4d4d103-5074-47e9-96e6-5431f4e35c57@nodefulcrum.mooo.com:443?security=reality&type=tcp&packetEncoding=xudp&sni=nodefulcrum.mooo.com&fp=chrome&flow=xtls-rprx-vision&sid=6547735997055a35&pbk=IhbpvWBZmJEzDs4eI2zoFmL_a-1J_7Z7Sepyrn7-xF8&encryption=none#C%20papa%20138101
-vless://f4ae4cd4-7e7b-47a0-9817-e81ffa826b53@3.25.92.214:44717?security=reality&encryption=none&pbk=TsJcNVjxAYCcp5vc8XPAgQQrXe2u6bDJ6igc4MYmvkk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=e4a5aeecb8319d#C%20papa%20138102
-vless://e459d26c-0957-4695-b1ac-0719e8df64f6@82.118.20.109:443?security=reality&encryption=none&pbk=U1X__Tg779LinTpcP65AVLHtxAGPSKzr04K1Fq_mDy8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=146c918c71da5d81#C%20papa%20138104
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#C%20papa%20138106
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.209.30:8880?path=%2F&security=&encryption=none&host=vms.lifetime04.workers.dev&type=ws#C%20papa%20138107
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:20065?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.microsoft.com#A2%20papa%20138110
@@ -998,3 +993,8 @@ vless://1d9b247a-d20e-49fd-bd9c-bb06e1ea2a18@95.154.196.62:443?encryption=none&f
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#C%20papa%20140376
 vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443?security=reality&encryption=none&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&headerType=none&fp=random&spx=%2Ffdded5f9698d939&type=tcp&sni=www.cloudflare.com&sid=cfe08c23a85f24#C%20papa%20140385
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:8080#C%20papa%20140389
+vless://7ad19e54-79b3-4f02-b69b-b60b4faa0c6e@104.25.60.77:443?path=%2Fdn3&security=tls&encryption=none&insecure=0&host=cdns.darklink.ir&type=ws&allowInsecure=0&sni=cdns.darklink.ir#A2%20papa%20140393
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@duchland1.vodniki.monster:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=EYfpgja4VjpLUnWHtDJQ1XZk6xL5j4rXwf80Sw6keV0&security=reality&sid=0c13e8822e7f58aa&sni=duchland1.vodniki.monster&type=tcp#A2%20papa%20140394
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@5.39.202.127:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=crRdG3Hd_QtGCJi9fd1rtHpDIB7vnCx1Yexfu6XkIzU&security=reality&sid=2cec07a8614696e5&sni=czek1.kovsh.lol&type=tcp#A2%20papa%20140395
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@uk1.kovsh.lol:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=s0ypPx0AL3k2KOk74tbm-aE-i7eIR_MYVzfLHZeLaUk&security=reality&sid=2e124af254a65e7c&sni=uk1.kovsh.lol&type=tcp#A2%20papa%20140396
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@czek1.kovsh.lol:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=crRdG3Hd_QtGCJi9fd1rtHpDIB7vnCx1Yexfu6XkIzU&security=reality&sid=2cec07a8614696e5&sni=czek1.kovsh.lol&type=tcp#A2%20papa%20140397
