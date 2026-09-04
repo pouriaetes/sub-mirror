@@ -1,12 +1,3 @@
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.74:2087?security=tls&type=ws&path=/&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&ed=2560&packetEncoding=xudp&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&encryption=none#C%20papa%20138981
-vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ikxldmlrb0NvbmZpZyIsImlkIjoiYjY1YTJkNjktNTYzNC00MmEyLWU0YmUtNTRlOGE2MTc2OTAwIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii9MZXZpa29Db25maWciLCJwb3J0IjoiNDQzIiwicHMiOiJDIHBhcGEgMTM4OTg1Iiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-ss://YWVzLTI1Ni1nY206a0tFZDByQnJkNTZGdXJqeg==@2.58.81.221:443#C%20papa%20138987
-vless://fe855f99-4eb5-4a80-ad48-354649ff1305@52.194.211.43:56449?security=reality&encryption=none&pbk=anIR48iTD0Inl1z85396AwMvDhcx9y25DdFsVR896DE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=25a9435577670327#A2%20papa%20138988
-vless://47a97b7f-044d-43d6-86b0-8b256873d1b5@45.121.50.241:50159?security=reality&encryption=none&pbk=E9gCs_C_mSDcHmlCZSMk1kSXpmua48DhgsT_aDpZ1WE&host=www.cloudflare.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=4c3f80051030ba1b#A2%20papa%20138989
-ss://YWVzLTI1Ni1nY206ODk1YjRiNzk2YTM1NzU3MA@176.32.35.51:10916#A2%20papa%20138990
-vmess://eyJhZGQiOiIxMDQuMTkuMTM4LjE5NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoieGNyb3VzZTIzZWQuaXJhbnB1bHMuaXIiLCJpZCI6IjA5YmJhYzIwLTJjNjQtNGFmNS1iMTE2LTZjODg2N2YxMDIyNyIsImluc2VjdXJlIjoiMCIsIm5ldCI6InhodHRwIiwicGF0aCI6Ii92aWRlbyIsInBjcyI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IkEyIHBhcGEgMTM4OTkxIiwic2N5IjoiYXV0byIsInNuaSI6Inhjcm91c2UyM2VkLmlyYW5wdWxzLmlyIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiIsInZjbiI6IiJ9
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.194:2087?security=tls&type=ws&path=/&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&ed=2560&packetEncoding=xudp&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&encryption=none#C%20papa%20138993
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#C%20papa%20138994
 vless://f2570d0f-02b8-4c46-b30f-7a753783a28d@151.242.169.43:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=oXYB-DXrI08UVBRFq8MERP36betSSd7Yb6MLN88F2R4&security=reality&sid=f6b5862c1f73ab80&sni=frantax.my3cx.de&type=tcp#C%20papa%20138996
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#C%20papa%20138998
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.118.10:8388#C%20papa%20138999
@@ -998,3 +989,12 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#C%20papa%20141214
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#C%20papa%20141224
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#C%20papa%20141225
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8080#C%20papa%20141229
+vless://07b69edc-18b1-4cbf-a33a-a0fe08c3db15@5.75.196.249:110?security=none&encryption=none&headerType=none&type=tcp#A2%20papa%20141231
+vless://1b0a74e1-3c69-4386-ae77-9db408d0687f@5.75.196.249:110?security=none&encryption=none&headerType=none&type=tcp#A2%20papa%20141232
+vless://35e8826f-0873-492d-8b8a-d495c9947480@104.16.99.215:8880?path=%2Fpyip&security=none&encryption=none&host=super-sunset-010c.24-43d.workers.dev&type=ws#A2%20papa%20141233
+vless://9327fd86-0c43-4cf2-9373-d6d228140b41@5.75.196.249:433?security=none&encryption=none&headerType=none&type=tcp#A2%20papa%20141234
+vless://e10a03dc-aa0d-4c45-af45-05085c304d47@5.75.196.249:433?security=none&encryption=none&headerType=none&type=tcp#A2%20papa%20141235
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#C%20papa%20141239
+vless://ffa431ab-a59b-4092-a418-905fcb1e4d5f@188.114.97.6:8080?type=ws&host=s0p42f8wwpdde5tf7m4l6l.ab1x-sn9o4y3n7ondkrd.workers.dev&path=/vl/rYScQPG1EEjxXdswdMEU2b3rM4?ed=2560#C%20papa%20141240
+trojan://BxceQaOe@119.246.1.143:443?security=tls&sni=t.me/ripaojiedian#C%20papa%20141244
+vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTdkNzJhOGQtMjZmMi00YjU0LWIzNjYtMGM0M2UwYmNiYTdkIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IkMgcGFwYSAxNDEyNTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
